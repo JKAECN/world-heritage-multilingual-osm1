@@ -1,0 +1,17 @@
+{
+ "n_pool": 572922,
+ "agreement_fullpool": 0.99995,
+ "audit_n": 360,
+ "audit_agreement": 1.0,
+ "evidence_counts": {
+  "different_script_pair": 175,
+  "latin_word_difference": 43,
+  "nonlatin_word_difference": 14,
+  "two_lang_fields_no_contrast": 4,
+  "transliteration_candidate": 3,
+  "identical_mod_case": 1
+ },
+ "strong_share": 0.9667,
+ "audit_cities": 49,
+ "nonml_with2lang": 0
+}

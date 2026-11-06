@@ -1,0 +1,361 @@
+city,osm_type,osm_id,default_name,lang_ctx_json,orig,rederived,stratum,evidence
+Seoul,node,6041674920,연신내,"{""name"": ""연신내"", ""name:en"": ""Yeonsinnae"", ""name:ja"": ""ヨンシンネ"", ""name:ko"": ""연신내""}",1,1,multilingual,different_script_pair
+Tallinn,node,344390201,Kivisilla,"{""name"": ""Kivisilla"", ""name:be"": ""Ківісілла"", ""name:en"": ""Kivisilla (intercity)"", ""name:ru"": ""Кивисилла""}",1,1,multilingual,different_script_pair
+Macao,node,3370473062,中國銀行 Banco da China,"{""name"": ""中國銀行 Banco da China"", ""name:en"": ""Bank of China"", ""name:pt"": ""Banco da China"", ""name:zh"": ""中國銀行"", ""name:zh-Hans"": ""中国银行"", ""name:zh-Hant"": ""中國銀行""}",1,1,multilingual,different_script_pair
+Algiers,node,4715803592,Mahrez,"{""name"": ""Mahrez"", ""name:ar"": ""محرز و شمسو"", ""name:en"": ""Mahrez shop""}",1,1,multilingual,different_script_pair
+Vilnius,node,4720663191,Arkos Studija,"{""name"": ""Arkos Studija"", ""name:lt"": ""Arkos Studija"", ""name:ru"": ""Салон красоты Arkos studija"", ""name:uk"": ""Салон краси Arkos studija""}",1,1,multilingual,different_script_pair
+Istanbul,node,12656069668,Ürdün Fahri Konsolosluğu,"{""name"": ""Ürdün Fahri Konsolosluğu"", ""name:af"": ""Erekonsulaat van Jordanië"", ""name:am"": ""የዮርዳኖስ የክብር ቆንስላ"", ""name:ar"": ""القنصلية الفخرية للأردن"", ""name:az"": ""İordaniyanın fəxri konsulluğu"", ""name:be"": ""Ганаровае консульства Іарданіі"", ""name:bg"": ""Почетно консулство на Йордания"", ""name:bn"": ""জর্ডানের সম্মানসূচক কনস্যুলেট"", ""name:br"": ""Koñsuldi enor Jordania"", ""name:bs"": ""Počasni konzulat Jordana"", ""name:ca"": ""Consolat Honorari de Jordània"", ""name:co"": ""Cunsulatu Onorariu di Ghjordanu"", ""name:cs"": ""Honorární konzulát Jordánska"", ""name:cy"": ""Is-gennad Anrhydeddus Iorddonen"", ""name:da"": ""Jordans honorære konsulat"", ""name:de"": ""Honorarkonsulat von Jordanien"", ""name:el"": ""Επίτιμο Προξενείο Ιορδανίας"", ""name:en"": ""Honorary Consulate of Jordan"", ""name:eo"": ""Honora Konsulejo de Jordanio"", ""name:es"": ""Consulado Honorario de Jordania"", ""name:et"": ""Jordaania aukonsulaat"", ""name:eu"": ""Jordaniako ohorezko kontsulatua"", ""name:fa"": ""کنسول افتخاری اردن"", ""name:fi"": ""Jordanian kunniakonsulaatti"", ""name:fo"": ""Heiðurskonsulatið í Jordan"", ""name:fr"": ""Consulat honoraire de Jordanie"", ""name:ga"": ""Consalacht Oinigh na hIordáine"", ""name:gd"": ""Consalachd Urramach Iordain"", ""name:gl"": ""Consulado Honorario de Xordania"", ""name:hi"": ""जॉर्डन के मानद वाणिज्य दूतावास"", ""name:hr"": ""Počasni konzulat Jordana"", ""name:hu"": ""Jordánia tiszteletbeli konzulátusa"", ""name:hy"": ""Հորդանանի պատվավոր հյուպատոսություն"", ""name:id"": ""Konsulat Kehormatan Yordania"", ""name:is"": ""Heiðursræðisskrifstofa Jórdaníu"", ""name:it"": ""Consolato onorario della Giordania"", ""name:iw"": ""קונסוליית הכבוד של ירדן"", ""name:ja"": ""ヨルダン名誉領事館"", ""name:ka"": ""იორდანიის საპატიო საკონსულო"", ""name:kk"": ""Иорданияның құрметті консулдығы"", ""name:km"": ""ស្ថានកុងស៊ុលកិត្តិយសនៃប្រទេសហ្ស៊កដានី"", ""name:ko"": ""요르단 명예 영사관"", ""name:ku"": ""Konsulxaneya Rûmetê ya Urdunê"", ""name:ky"": ""Иорданиянын Ардактуу консулдугу"", ""name:lb"": ""Honorärkonsulat vu Jordanien"", ""name:lo"": ""ສະຖານກົງສຸນກຽດຕິຍົດຂອງຈໍແດນ"", ""name:lt"": ""Jordanijos garbės konsulatas"", ""name:lv"": ""Jordānijas goda konsulāts"", ""name:mk"": ""Почесен конзулат на Јордан"", ""name:mn"": ""Иорданы Өргөмжит консулын газар"", ""name:ms"": ""Konsulat Kehormat Jordan"", ""name:mt"": ""Konsulat Onorarju tal-Ġordan"", ""name:my"": ""ဂျော်ဒန်ဂုဏ်ထူးဆောင်ကောင်စစ်ဝန်"", ""name:ne"": ""जोर्डनको मानार्थ वाणिज्य दूतावास"", ""name:nl"": ""Ereconsulaat van Jordanië"", ""name:no"": ""Jordans æreskonsulat"", ""name:oc"": ""Consolat d'Onor de Jordania"", ""name:pl"": ""Konsulat Honorowy Jordanii"", ""name:ps"": ""د اردن افتخاري قونسلګري"", ""name:pt"": ""Consulado Honorário da Jordânia"", ""name:ro"": ""Consulatul onorific al Iordaniei"", ""name:rom"": ""Honoràro Konzulàto anθ-i Jordania"", ""name:ru"": ""Почетное консульство Иордании"", ""name:sa"": ""जॉर्डनस्य मानदवाणिज्यदूतावासः"", ""name:scn"": ""Cunsulatu unurariu dû Giordanu"", ""name:se"": ""Jordana gudnekonsuláhta"", ""name:sk"": ""Honorárny konzulát Jordánska"", ""name:sl"": ""Častni konzulat Jordanije"", ""name:so"": ""Qunsuliyada sharafta leh ee Jordan"", ""name:sq"": ""Konsullata e Nderit e Jordanisë"", ""name:sr"": ""Почасни конзулат Јордана"", ""name:sv"": ""Jordaniens honorärkonsulat"", ""name:ta"": ""ஜோர்டான் கௌரவ துணைத் தூதரகம்"", ""name:tg"": ""Консулгарии фахрии Иордания"", ""name:th"": ""สถานกงสุลกิตติมศักดิ์จอร์แดน"", ""name:tk"": ""Iordaniýanyň hormatly konsullygy"", ""name:tl"": ""Honorary Consulate ng Jordan"", ""name:tr"": ""Ürdün Fahri Konsolosluğu"", ""name:uk"": ""Почесне консульство Йорданії"", ""name:ur"": ""اردن کا اعزازی قونصل خانہ"", ""name:uz"": ""Iordaniyaning faxriy konsulligi"", ""name:vi"": ""Lãnh sự quán danh dự của Jordan"", ""name:zh"": ""约旦名誉领事馆""}",1,1,multilingual,latin_word_difference
+Tunis,node,5807318673,الدندان,"{""name"": ""الدندان"", ""name:ar"": ""الدندان"", ""name:en"": ""Den Den"", ""name:fr"": ""Den Den""}",1,1,multilingual,different_script_pair
+Macao,node,4416593989,三街會館 Templo Sam Kai Vui Kun,"{""name"": ""三街會館 Templo Sam Kai Vui Kun"", ""name:en"": ""Sam Kai Vui Kun Temple"", ""name:pt"": ""Templo Sam Kai Vui Kun"", ""name:zh"": ""三街會館"", ""name:zh-Hans"": ""三街会馆"", ""name:zh-Hant"": ""三街會館""}",1,1,multilingual,different_script_pair
+Seoul,node,357828071,우이초등학교후문,"{""name"": ""우이초등학교후문"", ""name:en"": ""Ui Elementary School Back Gate"", ""name:ko"": ""우이초등학교후문"", ""name:ko-Latn"": ""Uichodeunghakgyohumun""}",1,1,multilingual,different_script_pair
+Macao,node,11617857969,翠華餐廳 Tsui Wah Restaurant,"{""name"": ""翠華餐廳 Tsui Wah Restaurant"", ""name:en"": ""Tsui Wah Restaurant"", ""name:zh"": ""翠華餐廳""}",1,1,multilingual,different_script_pair
+Seoul,node,368872267,환경미술연구소,"{""name"": ""환경미술연구소"", ""name:en"": ""Ecology and Art Research Institute"", ""name:ja"": ""環境美術研究所"", ""name:ko"": ""환경미술연구소"", ""name:ko-Latn"": ""Hwangyeongmisulyeonguso""}",1,1,multilingual,different_script_pair
+Naples,node,13970751761,Biglietteria Acquario di Napoli,"{""name"": ""Biglietteria Acquario di Napoli"", ""name:en"": ""Naples Aquarium - Ticket Office""}",1,1,multilingual,latin_word_difference
+Algiers,way,271912491,Mosquée Al Nour مسجد النور,"{""name"": ""Mosquée Al Nour مسجد النور"", ""name:ar"": ""مسجد النور"", ""name:fr"": ""Mosquée En-Nour""}",1,1,multilingual,nonlatin_word_difference
+Budapest,node,6874871086,Millenium,"{""name"": ""Millenium"", ""name:ja"": ""ミレニアム号""}",1,1,multilingual,different_script_pair
+Vilnius,way,601244722,Japoniškas sodas „Sei Shin“,"{""name"": ""Japoniškas sodas „Sei Shin“"", ""name:lt"": ""Japoniškas sodas „Sei Shin“"", ""name:ru"": ""Японский сад „Sei Shin“""}",1,1,multilingual,different_script_pair
+Tallinn,node,10633411727,Türgi suursaatkond,"{""name"": ""Türgi suursaatkond"", ""name:de"": ""Türkische Botschaft"", ""name:en"": ""Turkish Embassy"", ""name:fi"": ""Turkin suurlähetystö"", ""name:fr"": ""Ambassade de Turquie"", ""name:tr"": ""Türkiye Büyükelçiliği""}",1,1,multilingual,latin_word_difference
+Seoul,node,4247043883,광운대,"{""name"": ""광운대"", ""name:en"": ""Kwangwoon University"", ""name:ko"": ""광운대""}",1,1,multilingual,different_script_pair
+Istanbul,node,5243950733,Belkıs,"{""name"": ""Belkıs"", ""name:ar"": ""بلقيس""}",1,1,multilingual,different_script_pair
+Tallinn,relation,3519093,Hellemanni torn,"{""name"": ""Hellemanni torn"", ""name:be"": ""Вежа Хелеман"", ""name:de"": ""Hellemann-Turm"", ""name:en"": ""Helleman Tower"", ""name:fi"": ""Hellemannin torni""}",1,1,multilingual,different_script_pair
+Kyoto,way,483120002,萩 Coffee & Hamburger,"{""name"": ""萩 Coffee & Hamburger"", ""name:en"": ""Hagi Coffee & Hamburger""}",1,1,multilingual,different_script_pair
+Ayutthaya,node,6967041822,วัดตำหนัก,"{""name"": ""วัดตำหนัก"", ""name:en"": ""Wat Tamnak""}",1,1,multilingual,nonlatin_word_difference
+Quito,node,4244824973,Star Fashion Peluqueria,"{""name"": ""Star Fashion Peluqueria"", ""name:it"": ""Star Fashion""}",1,1,multilingual,latin_word_difference
+Havana,node,4775990021,Altos 307,"{""name"": ""Altos 307"", ""name:en"": ""Altos 307"", ""name:es"": ""Altos 307""}",1,1,multilingual,two_lang_fields_no_contrast
+Istanbul,node,5112750825,Kasturya Sinagogu,"{""name"": ""Kasturya Sinagogu"", ""name:ar"": ""كنيس كاستوريا""}",1,1,multilingual,different_script_pair
+Macao,node,2165428045,河邊新街/凱泉灣 Alm. Sérgio / Riviera Macau,"{""name"": ""河邊新街/凱泉灣 Alm. Sérgio / Riviera Macau"", ""name:pt"": ""Alm. Sérgio / Riviera Macau"", ""name:zh"": ""河邊新街/凱泉灣""}",1,1,multilingual,different_script_pair
+Budapest,way,83185259,Ludovika tér,"{""name"": ""Ludovika tér"", ""name:de"": ""Ludovika-Platz"", ""name:hu"": ""Ludovika tér""}",1,1,multilingual,latin_word_difference
+Kyoto,node,9081279032,高野車庫,"{""name"": ""高野車庫"", ""name:en"": ""Takano Shako""}",1,1,multilingual,different_script_pair
+Rome,node,4258490090,Museo Criminologico,"{""name"": ""Museo Criminologico"", ""name:hu"": ""Bűnügyi Múzeum"", ""name:it"": ""Museo Criminologico"", ""name:ru"": ""Музей криминологи""}",1,1,multilingual,latin_word_difference
+Prague,node,1714896917,svatý Kajetán,"{""name"": ""svatý Kajetán"", ""name:de"": ""Heiliger Kajetan"", ""name:en"": ""Saint Cajetan"", ""name:hu"": ""Thienei Szent Kajetán"", ""name:ru"": ""Святой Каетан Тиенский"", ""name:sv"": ""Helige Gaetano av Thiene""}",1,1,multilingual,latin_word_difference
+Kyoto,node,8761638835,東福寺道,"{""name"": ""東福寺道"", ""name:en"": ""Tofukuji-michi"", ""name:ja"": ""東福寺道"", ""name:ja-Hira"": ""とうふくじみち"", ""name:ja-Latn"": ""Tōfukuji michi""}",1,1,multilingual,different_script_pair
+Samarkand,way,757792604,Bog'cha № 1,"{""name"": ""Bog'cha № 1"", ""name:ru"": ""Детский сад № 1""}",1,1,multilingual,different_script_pair
+Seoul,way,358992460,엔트러사이트,"{""name"": ""엔트러사이트"", ""name:en"": ""Anthracite"", ""name:ko"": ""엔트러사이트""}",1,1,multilingual,different_script_pair
+Kyoto,node,2998138661,東天王町,"{""name"": ""東天王町"", ""name:en"": ""Higashitennocho"", ""name:ja"": ""東天王町"", ""name:ja-Hira"": ""ひがしてんのうちょう"", ""name:ja-Latn"": ""Higashitennōchō"", ""name:ko"": ""히가시텐노초"", ""name:zh-Hans"": ""东天王町"", ""name:zh-Hant"": ""東天王町""}",1,1,multilingual,different_script_pair
+Seoul,way,270032667,대운동장,"{""name"": ""대운동장"", ""name:ja"": ""大運動場"", ""name:ko"": ""대운동장""}",1,1,multilingual,different_script_pair
+Kyoto,node,14237541059,大久運輸,"{""name"": ""大久運輸"", ""name:ja"": ""大久運輸"", ""name:ja-Hira"": ""だいきゅううんゆ""}",1,1,multilingual,different_script_pair
+Seoul,node,368724385,뽀빠이문방구,"{""name"": ""뽀빠이문방구"", ""name:en"": ""Bbobbai Stationery"", ""name:ko"": ""뽀빠이문방구"", ""name:ko-Latn"": ""Bbobbaimunbanggu""}",1,1,multilingual,different_script_pair
+Seoul,node,12074471389,뉴 로스팅 하우스,"{""name"": ""뉴 로스팅 하우스"", ""name:en"": ""New Roasting House"", ""name:ko"": ""뉴 로스팅 하우스""}",1,1,multilingual,different_script_pair
+Algiers,node,3092510355,Station Bouzaréah,"{""name"": ""Station Bouzaréah"", ""name:ar"": ""محطة بوزريعة""}",1,1,multilingual,different_script_pair
+Fez,node,5372579121,Droguerie أجزاخانة,"{""name"": ""Droguerie أجزاخانة"", ""name:ar"": ""أجزاخانة"", ""name:fr"": ""Droguerie""}",1,1,multilingual,nonlatin_word_difference
+Seoul,node,357839270,뚝섬서울숲,"{""name"": ""뚝섬서울숲"", ""name:en"": ""Ddukseom Seoul Sup"", ""name:ko"": ""뚝섬서울숲"", ""name:ko-Latn"": ""Ddukseomseoulsup""}",1,1,multilingual,different_script_pair
+Istanbul,node,5667661214,Ekşioğlu Ev Tekstil,"{""name"": ""Ekşioğlu Ev Tekstil"", ""name:ar"": ""منسوجات منزلية آيكشي أولو""}",1,1,multilingual,different_script_pair
+Seoul,node,7007672975,동해루,"{""name"": ""동해루"", ""name:en"": ""Donghaeroo"", ""name:ja"": ""東海楼""}",1,1,multilingual,different_script_pair
+Algiers,way,267210976,جامع كتشاوة,"{""name"": ""جامع كتشاوة"", ""name:ar"": ""جامع كتشاوة"", ""name:de"": ""Ketschawa-Moschee"", ""name:en"": ""Ketchaoua Mosque"", ""name:es"": ""Mezquita de Kechaoua"", ""name:fr"": ""Mosquée Ketchaoua"", ""name:it"": ""Moschea Ketchaoua"", ""name:ru"": ""Мечеть Кетшава""}",1,1,multilingual,different_script_pair
+Istanbul,node,5110345649,Stilis,"{""name"": ""Stilis"", ""name:ar"": ""ستيلس""}",1,1,multilingual,different_script_pair
+Kyoto,node,9124004434,桂川小学校前,"{""name"": ""桂川小学校前"", ""name:en"": ""Katsuragawa Shogakko-mae""}",1,1,multilingual,different_script_pair
+Istanbul,node,5244798421,Taş Dünyası Aksesuar,"{""name"": ""Taş Dünyası Aksesuar"", ""name:ar"": ""تاش دونياسي اكسيسوار""}",1,1,multilingual,different_script_pair
+Istanbul,node,5667637436,Lord erkek kuaförü,"{""name"": ""Lord erkek kuaförü"", ""name:ar"": ""كوافير اللورد""}",1,1,multilingual,different_script_pair
+Warsaw,node,12146581797,Żabka,"{""name"": ""Żabka"", ""name:be"": ""Жабка"", ""name:pl"": ""Żabka"", ""name:ru"": ""Жабка"", ""name:uk"": ""Жабка""}",1,1,multilingual,different_script_pair
+Seoul,node,7170659985,스테어웨이,"{""name"": ""스테어웨이"", ""name:en"": ""Stairway""}",1,1,multilingual,different_script_pair
+Antigua Guatemala,node,12127927028,Mirador Ciudad Vieja,"{""name"": ""Mirador Ciudad Vieja"", ""name:en"": ""Ciudad Vieja Viewpoint""}",1,1,multilingual,latin_word_difference
+Tunis,way,94346323,منتزه منير القبايلي,"{""name"": ""منتزه منير القبايلي"", ""name:ar"": ""منتزه منير القبايلي"", ""name:fr"": ""Parc Mounir-Kebaili""}",1,1,multilingual,different_script_pair
+Istanbul,node,5107243187,Önder Erkek Kuaförü,"{""name"": ""Önder Erkek Kuaförü"", ""name:ar"": ""اوندر ايركيك كوافيرو""}",1,1,multilingual,different_script_pair
+Kyoto,way,357228043,正伝永源院,"{""name"": ""正伝永源院"", ""name:en"": ""Shoden Eigen-in"", ""name:ja"": ""正伝永源院"", ""name:ja-Latn"": ""Shōden Eigen-in""}",1,1,multilingual,different_script_pair
+Istanbul,way,303803638,Sepetçi Han,"{""name"": ""Sepetçi Han"", ""name:en"": ""Sepetçi Han"", ""name:tr"": ""Sepetçi Han""}",1,1,multilingual,two_lang_fields_no_contrast
+Seoul,node,12072483352,덕수궁 리에제와플,"{""name"": ""덕수궁 리에제와플"", ""name:en"": ""Liège Waffle Deoksugung"", ""name:ko"": ""덕수궁리에제와플""}",1,1,multilingual,different_script_pair
+Valletta,way,213853153,Kappella tal-Lunzjata,"{""name"": ""Kappella tal-Lunzjata"", ""name:en"": ""Chapel of the Annunciation""}",1,1,multilingual,latin_word_difference
+Istanbul,node,5112834022,Hotelium,"{""name"": ""Hotelium"", ""name:ar"": ""فندق هوتيليوم""}",1,1,multilingual,different_script_pair
+Tunis,node,10295304342,بوسبيع,"{""name"": ""بوسبيع"", ""name:ar"": ""بوسبيع"", ""name:fr"": ""BOUSBIAA""}",1,1,multilingual,different_script_pair
+Istanbul,node,5667618743,Komsan Kompresör,"{""name"": ""Komsan Kompresör"", ""name:ar"": ""مصنع كومسان للالات""}",1,1,multilingual,different_script_pair
+Tallinn,node,5938004697,Lennujaam,"{""name"": ""Lennujaam"", ""name:en"": ""Airport"", ""name:et"": ""Lennujaam"", ""name:vro"": ""Linnujaam""}",1,1,multilingual,latin_word_difference
+Valletta,way,30382084,Saint James Cavalier,"{""name"": ""Saint James Cavalier"", ""name:ar"": ""فارس القديس جيمس"", ""name:en"": ""Saint James Cavalier"", ""name:it"": ""Cavaliere di San Giacomo""}",1,1,multilingual,different_script_pair
+Prague,node,296507713,Czech Beer Museum,"{""name"": ""Czech Beer Museum"", ""name:en"": ""Czech Beer Museum"", ""name:ru"": ""Чешский музей пива"", ""name:uk"": ""Чеський музей пива""}",1,1,multilingual,different_script_pair
+Rome,way,112482301,Farmacia Vaticana,"{""name"": ""Farmacia Vaticana"", ""name:de"": ""Vatikanische Apotheke"", ""name:en"": ""Vatican Pharmacy"", ""name:fr"": ""Pharmacie du Vatican"", ""name:it"": ""Farmacia Vaticana"", ""name:pt"": ""Farmácia Vaticana"", ""name:ru"": ""Аптека Ватикана""}",1,1,multilingual,latin_word_difference
+Istanbul,node,5106132762,Bolulu Hasan Usta,"{""name"": ""Bolulu Hasan Usta"", ""name:ar"": ""حسن اوستى كافيه""}",1,1,multilingual,different_script_pair
+Budapest,node,10564512577,Dísz tér,"{""name"": ""Dísz tér"", ""name:de"": ""Ehrenplatz""}",1,1,multilingual,latin_word_difference
+Venice,node,5498137524,Accademia di belle arti di Venezia,"{""name"": ""Accademia di belle arti di Venezia"", ""name:ru"": ""Венецианская академия изящных искусств""}",1,1,multilingual,different_script_pair
+Seoul,node,6049150843,신답,"{""name"": ""신답"", ""name:en"": ""Sindap"", ""name:ja"": ""新踏(シンダプ)"", ""name:ko"": ""신답""}",1,1,multilingual,different_script_pair
+Lima,node,3077649260,Ministerio de la Producción - Dirección Mi Empresa,"{""name"": ""Ministerio de la Producción - Dirección Mi Empresa"", ""name:en"": ""Ministry of Production""}",1,1,multilingual,latin_word_difference
+Lijiang,node,6698387426,云雪丽,"{""name"": ""云雪丽"", ""name:en"": ""V Sherry Restaurant""}",1,1,multilingual,different_script_pair
+Nara,node,2447752311,オリジナル着物小田,"{""name"": ""オリジナル着物小田"", ""name:en"": ""Oda's Kimono""}",1,1,multilingual,different_script_pair
+Seoul,node,3833430060,동대문,"{""name"": ""동대문"", ""name:en"": ""Dongdaemun"", ""name:ja"": ""トンデムン (東大門)"", ""name:ko"": ""동대문""}",1,1,multilingual,different_script_pair
+Istanbul,node,5115937209,Tarihi Küçük Hamam,"{""name"": ""Tarihi Küçük Hamam"", ""name:ar"": ""حمام كوتشوك التاريخي""}",1,1,multilingual,different_script_pair
+Kyoto,way,231885868,Ecolo park,"{""name"": ""Ecolo park"", ""name:en"": ""Ecolo Park"", ""name:ja"": ""エコロパーク""}",1,1,multilingual,identical_mod_case
+Kyoto,node,3628707764,京都,"{""name"": ""京都"", ""name:de"": ""Kioto"", ""name:en"": ""Kyoto"", ""name:it"": ""Kyoto"", ""name:ja"": ""京都"", ""name:ja-Hira"": ""きょうと"", ""name:ja-Latn"": ""Kyōto"", ""name:ko"": ""교토"", ""name:ru"": ""Киото"", ""name:uk"": ""Кіото""}",1,1,multilingual,different_script_pair
+Tunis,node,10295304234,نهاية خط حى الملاحة,"{""name"": ""نهاية خط حى الملاحة"", ""name:ar"": ""نهاية خط حى الملاحة"", ""name:fr"": ""TERMINUS CITÉ EL MALLAHA""}",1,1,multilingual,different_script_pair
+Rome,node,2015144901,Città del Vaticano,"{""name"": ""Città del Vaticano"", ""name:ar"": ""مدينة الفاتيكان"", ""name:cs"": ""Nádraží Vatikán"", ""name:de"": ""Vatikanstadt"", ""name:en"": ""Vatican City"", ""name:es"": ""Ciudad del Vaticano"", ""name:fr"": ""Cité du Vatican"", ""name:it"": ""Città del Vaticano"", ""name:la"": ""Civitatis Vaticanae"", ""name:sv"": ""Vatikanstaten""}",1,1,multilingual,different_script_pair
+Seoul,node,6036161336,신용산,"{""name"": ""신용산"", ""name:en"": ""Sinyongsan"", ""name:ko"": ""신용산""}",1,1,multilingual,different_script_pair
+Macao,node,3811329419,M45 南澳花園休憩區公廁 M45 Sanitário público da Zona de Lazer do jardim Nam Ou,"{""name"": ""M45 南澳花園休憩區公廁 M45 Sanitário público da Zona de Lazer do jardim Nam Ou"", ""name:en"": ""M45 Public toilet at the Leisure Area of Jardim Nam Ou"", ""name:pt"": ""M45 Sanitário público da Zona de Lazer do jardim Nam Ou"", ""name:zh"": ""M45 南澳花園休憩區公廁""}",1,1,multilingual,different_script_pair
+Algiers,node,3053784450,Salle des fête El Djenane,"{""name"": ""Salle des fête El Djenane"", ""name:ar"": ""قاعة الحفلات الجنان"", ""name:fr"": ""Salle des fête El Djenane""}",1,1,multilingual,different_script_pair
+Seoul,node,6596052685,진달래꽃집,"{""name"": ""진달래꽃집"", ""name:en"": ""Flower - Ceramics""}",1,1,multilingual,different_script_pair
+Kyoto,node,5707708875,梅小路京都西,"{""name"": ""梅小路京都西"", ""name:en"": ""Umekoji-Kyotonishi"", ""name:ja"": ""梅小路京都西"", ""name:ja-Hira"": ""うめこうじきょうとにし"", ""name:ja-Latn"": ""Umekōji-Kyōtonishi"", ""name:ko"": ""우메코지쿄토니시""}",1,1,multilingual,different_script_pair
+Seoul,node,368652571,사회과학도서관,"{""name"": ""사회과학도서관"", ""name:en"": ""Social Science Library"", ""name:ja"": ""社会科学図書館"", ""name:ko"": ""사회과학도서관"", ""name:ko-Latn"": ""Sahoegwahakdoseogwan""}",1,1,multilingual,different_script_pair
+Riga,node,3249141869,Ūdenszirgs,"{""name"": ""Ūdenszirgs"", ""name:lv"": ""Ūdenszirgs"", ""name:ru"": ""Морж""}",1,1,multilingual,different_script_pair
+Valletta,node,13243465048,Kunsill Lokali tal-Furjana,"{""name"": ""Kunsill Lokali tal-Furjana"", ""name:en"": ""Floriana Local Council"", ""name:mt"": ""Kunsill Lokali tal-Furjana""}",1,1,multilingual,latin_word_difference
+Istanbul,node,5106122967,Van Gölü Et,"{""name"": ""Van Gölü Et"", ""name:ar"": ""لحوم فان غولو""}",1,1,multilingual,different_script_pair
+Rome,node,2244977014,Cesari's Terrace,"{""name"": ""Cesari's Terrace"", ""name:it"": ""La terrazza del Cesàri""}",1,1,multilingual,latin_word_difference
+Budapest,way,265244195,Spar,"{""name"": ""Spar"", ""name:fa"": ""اسپار""}",1,1,multilingual,different_script_pair
+Sucre,node,4992481825,Casa Verde B&B,"{""name"": ""Casa Verde B&B"", ""name:en"": ""Casa Verde B&B"", ""name:es"": ""Casa Verde B&B"", ""name:fr"": ""Casa Verde B&B""}",1,1,multilingual,two_lang_fields_no_contrast
+Kyoto,node,1422960183,京都吉田郵便局,"{""name"": ""京都吉田郵便局"", ""name:en"": ""Kyoto Yoshida Post Office"", ""name:ja"": ""京都吉田郵便局"", ""name:ja-Hira"": ""きょうと よしだ ゆうびんきょく""}",1,1,multilingual,different_script_pair
+Tallinn,node,1575692471,Maleva,"{""name"": ""Maleva"", ""name:ru"": ""Малева""}",1,1,multilingual,different_script_pair
+Ayutthaya,node,11754548264,อโธารา วิลเลจ,"{""name"": ""อโธารา วิลเลจ"", ""name:en"": ""Ayodhara Vilage""}",1,1,multilingual,nonlatin_word_difference
+Budapest,way,329119543,Budapest XX. Kerületi Német Nemzetiségi Gimnázium és Kollégium,"{""name"": ""Budapest XX. Kerületi Német Nemzetiségi Gimnázium és Kollégium"", ""name:de"": ""Deutsches Nationalitätengymnasium des XX. Bezirks in Budapest""}",1,1,multilingual,latin_word_difference
+Lima,node,8195299918,Barberia La Tronstina,"{""name"": ""Barberia La Tronstina"", ""name:en"": ""Tronstina Barber Shop""}",1,1,multilingual,latin_word_difference
+Tunis,node,6558506102,مصرف الزيتونة,"{""name"": ""مصرف الزيتونة"", ""name:ar"": ""مصرف الزيتونة"", ""name:en"": ""Zitouna"", ""name:fr"": ""Zitouna""}",1,1,multilingual,different_script_pair
+Hue,node,5475291321,Thien Minh,"{""name"": ""Thien Minh"", ""name:en"": ""Quan Chay Thiên Minh""}",1,1,multilingual,latin_word_difference
+Seoul,node,11889206435,10꼬르소꼬모카페,"{""name"": ""10꼬르소꼬모카페"", ""name:en"": ""10 corso como"", ""name:ko"": ""10꼬르소꼬모카페""}",1,1,multilingual,different_script_pair
+Samarkand,node,4556723993,Shaxruz Osh Markazi,"{""name"": ""Shaxruz Osh Markazi"", ""name:ru"": ""Ош палов у Шахруза""}",1,1,multilingual,different_script_pair
+Seoul,way,574824570,치선호텔서울명동,"{""name"": ""치선호텔서울명동"", ""name:en"": ""Chisun Hotel Seoul MyeongDong"", ""name:ja"": ""チサンホテルソウル明洞""}",1,1,multilingual,different_script_pair
+Kyoto,node,2883431600,市民防災センター前,"{""name"": ""市民防災センター前"", ""name:en"": ""Shimin Bosai Center-mae (Kyoto City Disaster Prevention Center)"", ""name:ja-Hira"": ""しみんぼうさいせんたーまえ""}",1,1,multilingual,different_script_pair
+Algiers,node,6110884785,بومعراف,"{""name"": ""بومعراف"", ""name:ar"": ""بومعراف"", ""name:en"": ""Boumaaraf"", ""name:fr"": ""Boumaaraf""}",1,1,multilingual,different_script_pair
+Budapest,way,180740489,Zenélő szökőkút,"{""name"": ""Zenélő szökőkút"", ""name:cs"": ""Hudební fontána"", ""name:de"": ""Musikbrunnen"", ""name:en"": ""Music fountain"", ""name:fr"": ""Fontaine musicale"", ""name:ru"": ""Светомузыкальный фонтан""}",1,1,multilingual,latin_word_difference
+Kyoto,node,1422960791,京都太秦安井郵便局,"{""name"": ""京都太秦安井郵便局"", ""name:en"": ""Kyoto Uzumasayasui Post Office"", ""name:ja"": ""京都太秦安井郵便局"", ""name:ja-Hira"": ""きょうと うずまさやすい ゆうびんきょく""}",1,1,multilingual,different_script_pair
+Kyoto,node,3410419093,KIDDY LAND,"{""name"": ""KIDDY LAND"", ""name:ja"": ""キデイランド""}",1,1,multilingual,different_script_pair
+Seoul,node,4499378489,Innisfree,"{""name"": ""Innisfree"", ""name:en"": ""Innisfree"", ""name:ja"": ""イニスフリー"", ""name:ko"": ""이니스프리"", ""name:zh"": ""innisfree""}",1,1,multilingual,different_script_pair
+Macao,way,289064399,重型車輛駕駛學習暨考試中心 Centro de Exame de Condução dos Automóveis Pesados,"{""name"": ""重型車輛駕駛學習暨考試中心 Centro de Exame de Condução dos Automóveis Pesados"", ""name:pt"": ""Centro de Exame de Condução dos Automóveis Pesados"", ""name:zh"": ""重型車輛駕駛學習暨考試中心""}",1,1,multilingual,different_script_pair
+Seoul,node,368872070,한양대학교경제연구소,"{""name"": ""한양대학교경제연구소"", ""name:en"": ""Hanyang University Gyeongje Research Institute"", ""name:ja"": ""漢陽大学校 経済研究所"", ""name:ko"": ""한양대학교경제연구소"", ""name:ko-Latn"": ""Hanyangdaehakgyogyeongjeyeonguso""}",1,1,multilingual,different_script_pair
+Algiers,node,2964718422,الرحمة,"{""name"": ""الرحمة"", ""name:ar"": ""الرحمة"", ""name:fr"": ""Arahma""}",1,1,multilingual,different_script_pair
+Quito,node,4533856801,Yaupi (Importadora Sonar Cía. Ltda.),"{""name"": ""Yaupi (Importadora Sonar Cía. Ltda.)"", ""name:en"": ""Yaupi (Importadora Sonar Cía. Ltda.)"", ""name:es"": ""Yaupi (Importadora Sonar Cía. Ltda.)"", ""name:it"": ""Yaupi""}",1,1,multilingual,latin_word_difference
+Tunis,node,10295304125,المركز التجاري مقني,"{""name"": ""المركز التجاري مقني"", ""name:ar"": ""المركز التجاري مقني"", ""name:fr"": ""CENTRE MAKNI""}",1,1,multilingual,different_script_pair
+Havana,node,4897743321,Pastelería y Dulcería La Carolina,"{""name"": ""Pastelería y Dulcería La Carolina"", ""name:en"": ""Pastelería y Dulcería La Carolina"", ""name:es"": ""Pastelería y Dulcería La Carolina""}",1,1,multilingual,two_lang_fields_no_contrast
+Fez,node,4744915322,Banque Populaire البنك الشعبي,"{""name"": ""Banque Populaire البنك الشعبي"", ""name:ar"": ""البنك الشعبي"", ""name:fr"": ""Banque Populaire""}",1,1,multilingual,nonlatin_word_difference
+Kyoto,way,188840025,茶所,"{""name"": ""茶所"", ""name:en"": ""Teahouse"", ""name:fr"": ""Maison de Thé"", ""name:ja-Hira"": ""ちゃどころ"", ""name:ja-Latn"": ""Chadokoro""}",1,1,multilingual,different_script_pair
+Istanbul,node,5244801996,Yakamoz Büfe ve Tekel,"{""name"": ""Yakamoz Büfe ve Tekel"", ""name:ar"": ""ياكاموز بوفي""}",1,1,multilingual,different_script_pair
+Kyoto,way,233238367,業務スーパー,"{""name"": ""業務スーパー"", ""name:en"": ""Gyomu Super"", ""name:ja"": ""業務スーパー"", ""name:ja-Latn"": ""Gyōmu sūpā""}",1,1,multilingual,different_script_pair
+Istanbul,node,5667636266,Eren collection,"{""name"": ""Eren collection"", ""name:ar"": ""ايرين كوليكشن للملابس النسائية""}",1,1,multilingual,different_script_pair
+Kyoto,node,11625823059,京都たこ壱,"{""name"": ""京都たこ壱"", ""name:ja-Hira"": ""きょうとたこいち""}",1,1,multilingual,different_script_pair
+Isfahan,node,5032907724,رستوران هندی فودیز,"{""name"": ""رستوران هندی فودیز"", ""name:en"": ""foodies indian restaurant""}",1,1,multilingual,different_script_pair
+Seoul,node,2102460032,IBK기업은행,"{""name"": ""IBK기업은행"", ""name:en"": ""Industrial Bank of Korea"", ""name:ko"": ""IBK기업은행""}",1,1,multilingual,different_script_pair
+Ayutthaya,way,739092888,วัดอินทาราม,"{""name"": ""วัดอินทาราม"", ""name:en"": ""Wat Intharam"", ""name:ja"": ""ワット・インターラーム""}",1,1,multilingual,nonlatin_word_difference
+Istanbul,node,5112738807,Efe Ticaret Av Malzemeleri,"{""name"": ""Efe Ticaret Av Malzemeleri"", ""name:ar"": ""إيفي تيجاري أفجيليك ملزمالاري للوازم الصيد""}",1,1,multilingual,different_script_pair
+Kyoto,node,265961391,丹波口,"{""name"": ""丹波口"", ""name:de"": ""Tambaguchi"", ""name:en"": ""Tambaguchi"", ""name:ja"": ""丹波口"", ""name:ja-Hira"": ""たんばぐち"", ""name:ko"": ""단바구치""}",1,1,multilingual,different_script_pair
+Budapest,node,12875416190,FITZKEY Kürtőskalács,"{""name"": ""FITZKEY Kürtőskalács"", ""name:en"": ""Fitzkey Chimney Cake""}",1,1,multilingual,latin_word_difference
+Kyoto,node,4464194238,一乗寺駅 周辺案内,"{""name"": ""一乗寺駅 周辺案内"", ""name:en"": ""Ichijoji Station Area Guide""}",1,1,multilingual,different_script_pair
+Istanbul,way,174152916,Yaşam Merkezi,"{""name"": ""Yaşam Merkezi"", ""name:ar"": ""ياشام ميركزي""}",1,1,multilingual,different_script_pair
+Kyoto,way,579840985,ホーム・ステイ・椛 三条 京都,"{""name"": ""ホーム・ステイ・椛 三条 京都"", ""name:en"": ""Homm Stay Nagi Sanjo Kyoto""}",1,1,multilingual,different_script_pair
+Kyoto,node,11433413669,京都銀行 河原町支店,"{""name"": ""京都銀行 河原町支店"", ""name:en"": ""Kyoto Bank Kawaramachi"", ""name:ja"": ""京都銀行 河原町支店""}",1,1,multilingual,different_script_pair
+Venice,node,5136930922,Centro Tedesco di Studi Veneziani,"{""name"": ""Centro Tedesco di Studi Veneziani"", ""name:de"": ""Deutsches Studienzentrum in Venedig"", ""name:en"": ""German Center for Venetian Studies""}",1,1,multilingual,latin_word_difference
+Macao,node,4828764812,工銀澳門 ICBC,"{""name"": ""工銀澳門 ICBC"", ""name:en"": ""ICBC"", ""name:pt"": ""Banco Industrial e Comercial da China"", ""name:zh"": ""工銀澳門"", ""name:zh-Hans"": ""工银澳门"", ""name:zh-Hant"": ""工銀澳門""}",1,1,multilingual,different_script_pair
+Bukhara,way,148483328,Viloyat yuqumli kasilliklar kasalxonasi,"{""name"": ""Viloyat yuqumli kasilliklar kasalxonasi"", ""name:ru"": ""Областная инфекционная больница"", ""name:uz"": ""Вилоят юқумли касалликлар касалхонаси""}",1,1,multilingual,different_script_pair
+Macao,node,4320351100,華峰食館（關閘店）,"{""name"": ""華峰食館（關閘店）"", ""name:zh"": ""華峰食館（關閘店）"", ""name:zh-Hans"": ""华峰食馆（关闸店）"", ""name:zh-Hant"": ""華峰食館（關閘店）""}",1,1,multilingual,nonlatin_word_difference
+Istanbul,node,5667641586,TEB BANK ATM,"{""name"": ""TEB BANK ATM"", ""name:ar"": ""اي اي بي بنك صراف الي""}",1,1,multilingual,different_script_pair
+Istanbul,node,5113465229,Cafe Fırat,"{""name"": ""Cafe Fırat"", ""name:ar"": ""كافى فرات""}",1,1,multilingual,different_script_pair
+Seoul,node,357871961,숭덕초교,"{""name"": ""숭덕초교"", ""name:en"": ""Sungdeok Elementary School"", ""name:ko"": ""숭덕초교"", ""name:ko-Latn"": ""Sungdeokchogyo""}",1,1,multilingual,different_script_pair
+Istanbul,node,5115937200,Karınca,"{""name"": ""Karınca"", ""name:ar"": ""كارنجا""}",1,1,multilingual,different_script_pair
+Algiers,way,279749834,Sonatrach,"{""name"": ""Sonatrach"", ""name:ar"": ""سوناطراك""}",1,1,multilingual,different_script_pair
+Macao,node,7139453235,免費接駁巴士前往威尼斯人 Free Shuttle To Venetian Casino,"{""name"": ""免費接駁巴士前往威尼斯人 Free Shuttle To Venetian Casino"", ""name:en"": ""Free Shuttle To Venetian Casino"", ""name:zh"": ""免費接駁巴士前往威尼斯人""}",1,1,multilingual,different_script_pair
+Seoul,node,5795786456,스타벅스,"{""name"": ""스타벅스"", ""name:en"": ""Starbucks"", ""name:ja"": ""スターバックス"", ""name:ko"": ""스타벅스""}",1,1,multilingual,different_script_pair
+Istanbul,node,5088192743,Lastiğim - Çamcıoğlu,"{""name"": ""Lastiğim - Çamcıoğlu"", ""name:ar"": ""مصلح دواليب سيارات تشامجي أوغلو""}",1,1,multilingual,different_script_pair
+Fez,node,4552313118,مقهى مكا دور,"{""name"": ""مقهى مكا دور"", ""name:ar"": ""مقهى ميغاضور"", ""name:en"": ""Café Megador"", ""name:fr"": ""Café Megador""}",1,1,multilingual,nonlatin_word_difference
+Seoul,node,11001415852,아모레용산,"{""name"": ""아모레용산"", ""name:en"": ""AMORE Yongsan"", ""name:ja"": ""アモーレ龍山"", ""name:ko"": ""아모레용산""}",1,1,multilingual,different_script_pair
+Prague,node,24570143,Kačerov,"{""name"": ""Kačerov"", ""name:cs"": ""Kačerov"", ""name:ru"": ""Качеров""}",1,1,multilingual,different_script_pair
+Seoul,node,5887250093,용산전자상가.전자랜드,"{""name"": ""용산전자상가.전자랜드"", ""name:en"": ""Yongsan Electronic Shopping Mall.ET Land"", ""name:ko"": ""용산전자상가.전자랜드"", ""name:ko-Latn"": ""Yongsanjeonjasangga""}",1,1,multilingual,different_script_pair
+Rome,node,2327966747,Ambasciata dell'Azerbaigian,"{""name"": ""Ambasciata dell'Azerbaigian"", ""name:en"": ""Embassy of Azerbaijan"", ""name:fr"": ""Ambassade d'Azerbaïdjan""}",1,1,multilingual,latin_word_difference
+Seoul,node,4650378651,에바다 어린이집,"{""name"": ""에바다 어린이집"", ""name:en"": ""'Ebada' day care center""}",1,1,multilingual,different_script_pair
+Vienna,node,1893786446,Tierärztliche Ordination Tiergarten Schönbrunn,"{""name"": ""Tierärztliche Ordination Tiergarten Schönbrunn"", ""name:cs"": ""Zvěrolékařská ordinace ZOO Schönbrunn""}",1,1,multilingual,latin_word_difference
+Tunis,way,172205719,شل,"{""name"": ""شل"", ""name:ar"": ""شل"", ""name:en"": ""Shell"", ""name:fr"": ""Shell""}",1,1,multilingual,different_script_pair
+Quito,node,4686167291,Casa de Moscú,"{""name"": ""Casa de Moscú"", ""name:en"": ""House of Moscow"", ""name:es"": ""Casa de Moscú"", ""name:ru"": ""Дом Москвы""}",1,1,multilingual,latin_word_difference
+Istanbul,node,5244796168,Murat Karadeniz,"{""name"": ""Murat Karadeniz"", ""name:ar"": ""مرات كارادينيز""}",1,1,multilingual,different_script_pair
+Warsaw,node,460085672,Polskie Towarzystwo Chemiczne,"{""name"": ""Polskie Towarzystwo Chemiczne"", ""name:be"": ""Польскае хімічнае таварыства"", ""name:en"": ""Polish Chemical Society"", ""name:pl"": ""Polskie Towarzystwo Chemiczne""}",1,1,multilingual,different_script_pair
+Algiers,node,14030964359,EL MADANIA,"{""name"": ""EL MADANIA"", ""name:ar"": ""المدنية""}",1,1,multilingual,different_script_pair
+Istanbul,node,5088194900,Kosk Nargile Cafe,"{""name"": ""Kosk Nargile Cafe"", ""name:ar"": ""مقهى كوسك""}",1,1,multilingual,different_script_pair
+Isfahan,node,3652897328,چشمان,"{""name"": ""چشمان"", ""name:en"": ""Cheshman""}",1,1,multilingual,different_script_pair
+Vilnius,node,13078483516,Lighting Brothers,"{""name"": ""Lighting Brothers"", ""name:lt"": ""Šviesos broliai""}",1,1,multilingual,latin_word_difference
+Kyoto,node,5674697029,三ノ宮,"{""name"": ""三ノ宮"", ""name:en"": ""Sannomiya""}",1,1,multilingual,different_script_pair
+Warsaw,node,2262718672,Biedronka,"{""name"": ""Biedronka"", ""name:ru"": ""Бедронка""}",1,1,multilingual,different_script_pair
+Warsaw,node,1504135863,Żabka,"{""name"": ""Żabka"", ""name:be"": ""Жабка"", ""name:pl"": ""Żabka"", ""name:ru"": ""Жабка"", ""name:uk"": ""Жабка""}",1,1,multilingual,different_script_pair
+Kyoto,node,6333335217,セブン-イレブン,"{""name"": ""セブン-イレブン"", ""name:en"": ""7-Eleven"", ""name:ja"": ""セブン-イレブン""}",1,1,multilingual,different_script_pair
+Seoul,node,13227650731,이마트24,"{""name"": ""이마트24"", ""name:en"": ""emart24"", ""name:ko"": ""이마트24""}",1,1,multilingual,different_script_pair
+Istanbul,node,5099065427,Suffa Et Ve Kebap,"{""name"": ""Suffa Et Ve Kebap"", ""name:ar"": ""صوفا للحوم و الكباب""}",1,1,multilingual,different_script_pair
+Riga,way,205066125,Rīga Plaza,"{""name"": ""Rīga Plaza"", ""name:en"": ""Riga Plaza"", ""name:lv"": ""Rīga Plaza""}",1,1,multilingual,transliteration_candidate
+Istanbul,node,5244810638,Develi Pide Salonu,"{""name"": ""Develi Pide Salonu"", ""name:ar"": ""ديويلي بيدا سالونو""}",1,1,multilingual,different_script_pair
+Istanbul,node,5113481361,Tiffany halı,"{""name"": ""Tiffany halı"", ""name:ar"": ""سجادات تيفاني""}",1,1,multilingual,different_script_pair
+Luang Prabang,node,5248252428,ວັດປີ້,"{""name"": ""ວັດປີ້"", ""name:en"": ""Temple Ticket""}",1,1,multilingual,nonlatin_word_difference
+Vienna,node,12509483077,Österreichisches Rotes Kreuz,"{""name"": ""Österreichisches Rotes Kreuz"", ""name:en"": ""Austrian Red Cross"", ""name:fr"": ""Croix-Rouge Autrichienne""}",1,1,multilingual,latin_word_difference
+Isfahan,node,4759066686,بانک ملی,"{""name"": ""بانک ملی"", ""name:en"": ""Bank Melli Iran"", ""name:fa"": ""بانک ملی""}",1,1,multilingual,different_script_pair
+Budapest,node,84688527,Boráros tér,"{""name"": ""Boráros tér"", ""name:de"": ""Borarosplatz"", ""name:fr"": ""Place Boraros""}",1,1,multilingual,latin_word_difference
+Fez,node,4926864622,Epicier بقال,"{""name"": ""Epicier بقال"", ""name:ar"": ""بقال"", ""name:fr"": ""Epicier""}",1,1,multilingual,nonlatin_word_difference
+Prague,node,4720384283,Lobkovický palác,"{""name"": ""Lobkovický palác"", ""name:ru"": ""Лобковицкий дворец""}",1,1,multilingual,different_script_pair
+Istanbul,node,5112737119,Clasmaen,"{""name"": ""Clasmaen"", ""name:ar"": ""كلاسماين للألبسة""}",1,1,multilingual,different_script_pair
+Riga,node,1691772900,Laimas pulkstenis,"{""name"": ""Laimas pulkstenis"", ""name:de"": ""Laima Uhr"", ""name:en"": ""Laima Clock"", ""name:lv"": ""Laimas pulkstenis"", ""name:ru"": ""Часы Лайма"", ""name:uk"": ""Годинник \""Лайма\""""}",1,1,multilingual,latin_word_difference
+Krakow,relation,17027311,Małopolskie Centrum Nauki Cogiteon,"{""name"": ""Małopolskie Centrum Nauki Cogiteon"", ""name:en"": ""Małopolska Science Center Cogiteon""}",1,1,multilingual,latin_word_difference
+Prague,node,4636937682,velbloudi,"{""name"": ""velbloudi"", ""name:de"": ""Kamele"", ""name:en"": ""camels"", ""name:ru"": ""верблюды""}",1,1,multilingual,latin_word_difference
+Istanbul,node,5110347219,Fatih belediyesi otopark,"{""name"": ""Fatih belediyesi otopark"", ""name:ar"": ""موقف بلدية فاتح""}",1,1,multilingual,different_script_pair
+Kyoto,node,9528875791,セブン,"{""name"": ""セブン"", ""name:en"": ""SEVEN"", ""name:ja"": ""セブン""}",1,1,multilingual,different_script_pair
+Istanbul,way,519765091,Bayezid-i Cedid Cami,"{""name"": ""Bayezid-i Cedid Cami"", ""name:ar"": ""بيازيدي جديد جامي""}",1,1,multilingual,different_script_pair
+Seoul,way,142096704,DGB금융센터,"{""name"": ""DGB금융센터"", ""name:en"": ""DGB Finance Center"", ""name:ja"": ""DGB金融センター""}",1,1,multilingual,different_script_pair
+Naples,relation,62237,Palazzo Reale,"{""name"": ""Palazzo Reale"", ""name:en"": ""Royal Palace of Naples"", ""name:es"": ""Palacio Real de Nápoles"", ""name:fr"": ""Palais Royal de Naples"", ""name:ko"": ""레알레 궁전(나폴리 왕궁)"", ""name:ru"": ""королевский дворец""}",1,1,multilingual,latin_word_difference
+Dubrovnik,way,286073360,Navještenja Marijina,"{""name"": ""Navještenja Marijina"", ""name:en"": ""Chapel of Annunciation""}",1,1,multilingual,latin_word_difference
+Istanbul,node,5113495719,Kardeşler mini market,"{""name"": ""Kardeşler mini market"", ""name:ar"": ""كارديشلر ميني ماركت""}",1,1,multilingual,different_script_pair
+Venice,way,138800517,Padiglione Gran Bretagna,"{""name"": ""Padiglione Gran Bretagna"", ""name:en"": ""British Pavilion"", ""name:it"": ""Padiglione Gran Bretagna""}",1,1,multilingual,latin_word_difference
+Kyoto,node,8953589833,八条油小路,"{""name"": ""八条油小路"", ""name:en"": ""Hachijo Aburanokoji""}",1,1,multilingual,different_script_pair
+Istanbul,node,5109654673,Bora Fotoğraf Stüdyosu,"{""name"": ""Bora Fotoğraf Stüdyosu"", ""name:ar"": ""المصور بورا""}",1,1,multilingual,different_script_pair
+Istanbul,node,5244806802,MAS,"{""name"": ""MAS"", ""name:ar"": ""ماس""}",1,1,multilingual,different_script_pair
+Seoul,node,6550624713,소의문터,"{""name"": ""소의문터"", ""name:en"": ""Souimun Gate site""}",1,1,multilingual,different_script_pair
+Istanbul,node,5106135556,Obje,"{""name"": ""Obje"", ""name:ar"": ""ملبوسات اوبجي""}",1,1,multilingual,different_script_pair
+Rome,node,1506580109,Pizzeria due Fratelli,"{""name"": ""Pizzeria due Fratelli"", ""name:it"": ""Pizzeria I due Fratelli""}",1,1,multilingual,latin_word_difference
+Quito,node,8089125718,Juan Ramírez,"{""name"": ""Juan Ramírez"", ""name:es"": ""Juan Ramírez Celsam""}",1,1,multilingual,latin_word_difference
+Seoul,node,368702288,오투존모텔,"{""name"": ""오투존모텔"", ""name:en"": ""Otujon Motel"", ""name:ko"": ""오투존모텔"", ""name:ko-Latn"": ""Otujonmotel""}",1,1,multilingual,different_script_pair
+Kyoto,node,12285266429,ダイドードリンコ,"{""name"": ""ダイドードリンコ"", ""name:en"": ""DyDo Drinco"", ""name:ja"": ""ダイドードリンコ""}",1,1,multilingual,different_script_pair
+Istanbul,node,5667638777,Linnet,"{""name"": ""Linnet"", ""name:ar"": ""لينت""}",1,1,multilingual,different_script_pair
+Mexico City,node,8232959517,Comida callejera mexicana,"{""name"": ""Comida callejera mexicana"", ""name:en"": ""Mexican Street Food""}",1,1,multilingual,latin_word_difference
+Tunis,relation,8510913,أريانة,"{""name"": ""أريانة"", ""name:ar"": ""أريانة"", ""name:en"": ""Ariana"", ""name:fr"": ""Ariana""}",1,1,multilingual,different_script_pair
+Istanbul,node,5244811468,Kavim,"{""name"": ""Kavim"", ""name:ar"": ""كافيم""}",1,1,multilingual,different_script_pair
+Havana,node,6251024086,Casa Roca,"{""name"": ""Casa Roca"", ""name:en"": ""House Roca""}",1,1,multilingual,latin_word_difference
+Havana,node,4721289989,Agromercado Egido,"{""name"": ""Agromercado Egido"", ""name:es"": ""Agro-mercado Egido""}",1,1,multilingual,transliteration_candidate
+Luang Prabang,node,4950736532,ຮ້ານ ກະແລມ ຍູໄລ້,"{""name"": ""ຮ້ານ ກະແລມ ຍູໄລ້"", ""name:en"": ""U-Like Ice Cream""}",1,1,multilingual,nonlatin_word_difference
+Isfahan,node,6363093359,داده نگار جی,"{""name"": ""داده نگار جی"", ""name:en"": ""Jeyserver"", ""name:fa"": ""داده نگار جی""}",1,1,multilingual,different_script_pair
+Macao,node,4234110189,麥當勞 McDonald's,"{""name"": ""麥當勞 McDonald's"", ""name:en"": ""McDonald's"", ""name:zh"": ""麥當勞"", ""name:zh-Hans"": ""麦当劳"", ""name:zh-Hant"": ""麥當勞""}",1,1,multilingual,different_script_pair
+Isfahan,node,11984924525,آزمایشگاه مرکزی دانشگاه اصفهان,"{""name"": ""آزمایشگاه مرکزی دانشگاه اصفهان"", ""name:en"": ""The Central laboratory""}",1,1,multilingual,different_script_pair
+Kyoto,node,11638051490,山ニ四,"{""name"": ""山ニ四"", ""name:en"": ""山24""}",1,1,multilingual,nonlatin_word_difference
+Kyoto,node,9115680972,桂川小学校前,"{""name"": ""桂川小学校前"", ""name:en"": ""Katsuragawa Shogakko-mae""}",1,1,multilingual,different_script_pair
+Algiers,node,5480900121,كريم,"{""name"": ""كريم"", ""name:ar"": ""كريم"", ""name:fr"": ""Karim""}",1,1,multilingual,different_script_pair
+Isfahan,node,6029071685,قصر شاه اصفهان,"{""name"": ""قصر شاه اصفهان"", ""name:ar"": ""قصر شاة  اصفهان بيت مشروطه خاهان""}",1,1,multilingual,nonlatin_word_difference
+Macao,way,680715506,石排灣社會及衛生服務大樓 Edifício de Serviços Sociais e de Saúde de Seac Pai Van,"{""name"": ""石排灣社會及衛生服務大樓 Edifício de Serviços Sociais e de Saúde de Seac Pai Van"", ""name:pt"": ""Edifício de Serviços Sociais e de Saúde de Seac Pai Van"", ""name:zh"": ""石排灣社會及衛生服務大樓""}",1,1,multilingual,different_script_pair
+Seoul,node,368702961,쉴모텔,"{""name"": ""쉴모텔"", ""name:en"": ""Swil Motel"", ""name:ko"": ""쉴모텔"", ""name:ko-Latn"": ""Swilmotel""}",1,1,multilingual,different_script_pair
+Istanbul,node,5113486741,Semsür,"{""name"": ""Semsür"", ""name:ar"": ""سيمسور""}",1,1,multilingual,different_script_pair
+Istanbul,node,5115938018,Kadriye Mustafa Kuaför,"{""name"": ""Kadriye Mustafa Kuaför"", ""name:ar"": ""صالون قدرية مصطفى""}",1,1,multilingual,different_script_pair
+Seoul,node,13033436635,"Project Space, Under Layer","{""name"": ""Project Space, Under Layer"", ""name:en"": ""PS Under Layer"", ""name:ko"": ""프로젝트 스페이스, 언더 레이어""}",1,1,multilingual,latin_word_difference
+Kyoto,node,9529197215,パパク,"{""name"": ""パパク"", ""name:en"": ""Papacu"", ""name:ja"": ""パパク""}",1,1,multilingual,different_script_pair
+Seoul,node,5483726222,미우환전소,"{""name"": ""미우환전소"", ""name:en"": ""Miwoo exchange"", ""name:ja"": ""ミウ両替"", ""name:ko"": ""미우환전""}",1,1,multilingual,different_script_pair
+Warsaw,node,4052142357,Żabka,"{""name"": ""Żabka"", ""name:be"": ""Жабка"", ""name:pl"": ""Żabka"", ""name:ru"": ""Жабка"", ""name:uk"": ""Жабка""}",1,1,multilingual,different_script_pair
+Macao,node,6219106967,滙業銀行 Banco Delta Ásia,"{""name"": ""滙業銀行 Banco Delta Ásia"", ""name:pt"": ""Banco Delta Ásia"", ""name:zh"": ""滙業銀行(連勝分行)""}",1,1,multilingual,different_script_pair
+Warsaw,node,12386774444,Żabka,"{""name"": ""Żabka"", ""name:be"": ""Жабка"", ""name:pl"": ""Żabka"", ""name:ru"": ""Жабка"", ""name:uk"": ""Жабка""}",1,1,multilingual,different_script_pair
+Seoul,node,4757165438,잔주집,"{""name"": ""잔주집"", ""name:en"": ""Honam Jip""}",1,1,multilingual,different_script_pair
+Isfahan,node,14291385097,ساندویچ سرد مون,"{""name"": ""ساندویچ سرد مون"", ""name:en"": ""Moon cold sandwich""}",1,1,multilingual,different_script_pair
+Riga,node,4213836115,Eco dumas,"{""name"": ""Eco dumas"", ""name:en"": ""EcoDumas"", ""name:lv"": ""EcoDumas""}",1,1,multilingual,transliteration_candidate
+Vilnius,node,10845566155,Lazdynų gyvūnų ligoninė (DR.VET),"{""name"": ""Lazdynų gyvūnų ligoninė (DR.VET)"", ""name:be"": ""Ляшчынская вэтэрынарная клініка (DR.VET)""}",1,1,multilingual,different_script_pair
+Krakow,way,236253611,Dworzec Główny Tunel 02,"{""name"": ""Dworzec Główny Tunel 02"", ""name:en"": ""Main Station Tunnel""}",1,1,multilingual,latin_word_difference
+Budapest,node,436632612,Boráros tér H,"{""name"": ""Boráros tér H"", ""name:de"": ""Borarosplatz"", ""name:fr"": ""Place Boraros""}",1,1,multilingual,latin_word_difference
+Istanbul,node,5106123788,Moments Saat,"{""name"": ""Moments Saat"", ""name:ar"": ""مومينت للساعات""}",1,1,multilingual,different_script_pair
+Tallinn,way,26887383,Peeter I majamuuseum,"{""int_name"": ""Peter I House Museum"", ""name"": ""Peeter I majamuuseum"", ""name:be"": ""Хатка Пятра І"", ""name:en"": ""Peter I House Museum"", ""name:fr"": ""Musée Pierre le Grand"", ""name:ru"": ""Домик Петра l""}",1,1,multilingual,different_script_pair
+Istanbul,node,5112737084,Köfte,"{""name"": ""Köfte"", ""name:ar"": ""مطعم كوفتيه""}",1,1,multilingual,different_script_pair
+Rome,node,677476578,Museo Nazionale Romano,"{""name"": ""Museo Nazionale Romano"", ""name:hu"": ""Nemzeti Római Kori Múzeum"", ""name:uk"": ""Палаццо Альтемпс"", ""name:zh"": ""罗马国家博物馆阿尔滕普斯宫""}",1,1,multilingual,latin_word_difference
+Istanbul,node,5244807868,Aklar Kavafiye,"{""name"": ""Aklar Kavafiye"", ""name:ar"": ""اكلار كاويفيي""}",1,1,multilingual,different_script_pair
+Nara,node,1737906000,成城石井,"{""name"": ""成城石井"", ""name:en"": ""Seijo Ishii"", ""name:ja"": ""成城石井""}",1,1,multilingual,different_script_pair
+Kyoto,way,963345112,唐門,"{""name"": ""唐門"", ""name:en"": ""Chinese Gate"", ""name:fr"": ""Porte Chinoise"", ""name:ja-Hira"": ""からもん"", ""name:ja-Latn"": ""Kara-mon""}",1,1,multilingual,different_script_pair
+Seoul,relation,6182689,운현초등학교,"{""name"": ""운현초등학교"", ""name:en"": ""Unhyeon Elementary School"", ""name:ja"": ""雲峴初等学校"", ""name:ko"": ""운현초등학교"", ""name:ko-Latn"": ""Unhyeonchodeunghakgyo""}",1,1,multilingual,different_script_pair
+Isfahan,node,9823339550,افق کوروش,"{""name"": ""افق کوروش"", ""name:en"": ""Ofoq Kourosh"", ""name:fa"": ""افق کوروش""}",1,1,multilingual,different_script_pair
+Isfahan,node,6157884993,شیروانی,"{""name"": ""شیروانی"", ""name:en"": ""Shirvani""}",1,1,multilingual,different_script_pair
+Tallinn,node,6777713787,Ükskõik,"{""name"": ""Ükskõik"", ""name:en"": ""Whatever Bar"", ""name:et"": ""Ükskõik""}",1,1,multilingual,latin_word_difference
+Warsaw,node,2958326217,Żabka,"{""name"": ""Żabka"", ""name:be"": ""Жабка"", ""name:pl"": ""Żabka"", ""name:ru"": ""Жабка"", ""name:uk"": ""Жабка""}",1,1,multilingual,different_script_pair
+Seoul,node,7558368301,하나은행,"{""name"": ""하나은행"", ""name:en"": ""KEB Hana Bank"", ""name:ko"": ""하나은행""}",1,1,multilingual,different_script_pair
+Nara,node,12150857769,ココカラファイン,"{""name"": ""ココカラファイン"", ""name:en"": ""Cocokara Fine"", ""name:ja"": ""ココカラファイン"", ""name:ja-Hira"": ""ここからふぁいん"", ""name:ja-Latn"": ""Kokokara Fain""}",1,1,multilingual,different_script_pair
+Kyoto,node,3770149024,紫雲,"{""name"": ""紫雲"", ""name:en"": ""Purple clouds"", ""name:fr"": ""Nuages violets""}",1,1,multilingual,different_script_pair
+Fez,node,5239192322,Epicier بقال,"{""name"": ""Epicier بقال"", ""name:ar"": ""بقال"", ""name:fr"": ""Epicier""}",1,1,multilingual,nonlatin_word_difference
+Kyoto,node,4893246650,太秦天神川駅前,"{""name"": ""太秦天神川駅前"", ""name:en"": ""Uzumasa Tenjingawa Sta.""}",1,1,multilingual,different_script_pair
+Istanbul,node,5111215736,Trendy,"{""name"": ""Trendy"", ""name:ar"": ""ترندي""}",1,1,multilingual,different_script_pair
+Kyoto,node,6852969602,龍谷大前深草,"{""name"": ""龍谷大前深草"", ""name:de"": ""Ryukokudai-mae-Fukakusa"", ""name:en"": ""Ryukokudai-mae-Fukakusa"", ""name:ja"": ""龍谷大前深草"", ""name:ja-Hira"": ""りゅうこくだいまえふかくさ"", ""name:ja-Latn"": ""Ryūkokudai-mae-Fukakusa"", ""name:ko"": ""류코쿠다이마에후카쿠사""}",1,1,multilingual,different_script_pair
+Istanbul,node,5112834051,Hotel metropoli,"{""name"": ""Hotel metropoli"", ""name:ar"": ""فندق ميتروبولي""}",1,1,multilingual,different_script_pair
+Istanbul,node,5244801848,Four Doors Hotel Istanbul,"{""name"": ""Four Doors Hotel Istanbul"", ""name:ar"": ""فور دورز هوتيل استنبول""}",1,1,multilingual,different_script_pair
+Valletta,way,286534604,Saint Paul's Battery,"{""name"": ""Saint Paul's Battery""}",0,0,non_multilingual,
+Isfahan,node,9905377050,باغ دریاچه,"{""name"": ""باغ دریاچه""}",0,0,non_multilingual,
+Kyoto,node,3296115861,瀬戸物町はり・きゅう治療院,"{""name"": ""瀬戸物町はり・きゅう治療院""}",0,0,non_multilingual,
+Vienna,node,4367557890,Wilhelmsdorfer Stube,"{""name"": ""Wilhelmsdorfer Stube"", ""name:de"": ""Wilhelmsdorfer Stube""}",0,0,non_multilingual,
+Oaxaca,node,9083109420,Azul Cielo Hostel,"{""name"": ""Azul Cielo Hostel""}",0,0,non_multilingual,
+Seoul,node,13851203128,온헤어,"{""name"": ""온헤어""}",0,0,non_multilingual,
+Santiago de Compostela,node,8892670769,O Tamboril,"{""name"": ""O Tamboril""}",0,0,non_multilingual,
+Riga,way,1097277301,Ziepniekkalna tirgus №1,"{""name"": ""Ziepniekkalna tirgus №1""}",0,0,non_multilingual,
+Seoul,node,13851203078,살롱드헤어 홍제점,"{""name"": ""살롱드헤어 홍제점""}",0,0,non_multilingual,
+Toledo,node,3254881157,El Último,"{""name"": ""El Último""}",0,0,non_multilingual,
+Mexico City,node,3777786242,Dilicia,"{""name"": ""Dilicia""}",0,0,non_multilingual,
+Rome,node,13056352887,Sfiziami Italian Bistrot,"{""name"": ""Sfiziami Italian Bistrot""}",0,0,non_multilingual,
+Kyoto,node,9519265664,サンタ薬局,"{""name"": ""サンタ薬局""}",0,0,non_multilingual,
+Florence,relation,9487432,Fermi,"{""name"": ""Fermi""}",0,0,non_multilingual,
+Warsaw,node,10998218188,Lux Med,"{""name"": ""Lux Med""}",0,0,non_multilingual,
+Budapest,node,13202523233,Diófa Pinyó Bar,"{""name"": ""Diófa Pinyó Bar""}",0,0,non_multilingual,
+Cartagena,way,559607622,Drogas Express,"{""name"": ""Drogas Express""}",0,0,non_multilingual,
+Budapest,node,7215179985,Péter Képkeret,"{""name"": ""Péter Képkeret""}",0,0,non_multilingual,
+Seoul,node,7690569928,굿코딩컴퓨터,"{""name"": ""굿코딩컴퓨터""}",0,0,non_multilingual,
+Rome,node,11910711082,Studio Ricci,"{""name"": ""Studio Ricci""}",0,0,non_multilingual,
+Vienna,node,1467267730,Computer Service,"{""name"": ""Computer Service""}",0,0,non_multilingual,
+Florence,node,6408999763,Torre del Gallo Giramonte,"{""name"": ""Torre del Gallo Giramonte""}",0,0,non_multilingual,
+Valletta,node,5034834240,Ħal Luqa - Ċaraffa,"{""name"": ""Ħal Luqa - Ċaraffa""}",0,0,non_multilingual,
+Warsaw,way,993221399,Yes,"{""name"": ""Yes""}",0,0,non_multilingual,
+Salvador de Bahia,node,12526235877,O'dwyer . cunha . tedesco advogados,"{""name"": ""O'dwyer . cunha . tedesco advogados""}",0,0,non_multilingual,
+Riga,node,294213032,Salnas iela,"{""name"": ""Salnas iela""}",0,0,non_multilingual,
+Prague,node,12992877321,"Tabák ""Na Knížecí""","{""name"": ""Tabák \""Na Knížecí\""""}",0,0,non_multilingual,
+Mexico City,way,787653013,Farmacias Similares,"{""name"": ""Farmacias Similares""}",0,0,non_multilingual,
+Potosi,way,68903483,Cancha Santa Bárbara,"{""name"": ""Cancha Santa Bárbara""}",0,0,non_multilingual,
+Rome,node,5222950080,Hotel Ferrarese,"{""name"": ""Hotel Ferrarese""}",0,0,non_multilingual,
+Florence,node,12708496262,Aroma,"{""name"": ""Aroma""}",0,0,non_multilingual,
+Hoi An,node,4837243922,Le Fê,"{""name"": ""Le Fê""}",0,0,non_multilingual,
+Havana,node,9287469644,Escuela Armando Ramos Anexo 2,"{""name"": ""Escuela Armando Ramos Anexo 2""}",0,0,non_multilingual,
+Budapest,node,9025316221,Talár Kft. - Ruházati nagykereskedés,"{""name"": ""Talár Kft. - Ruházati nagykereskedés""}",0,0,non_multilingual,
+Prague,node,415092689,Městská policie,"{""name"": ""Městská policie""}",0,0,non_multilingual,
+Valletta,node,5244173698,Reeds,"{""name"": ""Reeds""}",0,0,non_multilingual,
+Dubrovnik,node,10976199588,Hard Rock Cafe,"{""name"": ""Hard Rock Cafe""}",0,0,non_multilingual,
+Tallinn,node,599270574,Reval Café,"{""name"": ""Reval Café""}",0,0,non_multilingual,
+Vienna,relation,10478947,Karlsplatz (bus),"{""name"": ""Karlsplatz (bus)""}",0,0,non_multilingual,
+Cusco,way,367135370,Institución Educativa Educandas,"{""name"": ""Institución Educativa Educandas""}",0,0,non_multilingual,
+Lima,node,6293690708,Auditorio del Indecopi,"{""name"": ""Auditorio del Indecopi""}",0,0,non_multilingual,
+Vienna,node,13062066101,DDr. Jeremic,"{""name"": ""DDr. Jeremic""}",0,0,non_multilingual,
+Warsaw,node,9710327815,Drabinka,"{""name"": ""Drabinka""}",0,0,non_multilingual,
+Vienna,node,10103749528,kumpato,"{""name"": ""kumpato""}",0,0,non_multilingual,
+Rome,node,1730900786,Laurentina/Douhet,"{""name"": ""Laurentina/Douhet""}",0,0,non_multilingual,
+Seoul,node,13946919985,오사카고양이 외대점,"{""name"": ""오사카고양이 외대점""}",0,0,non_multilingual,
+Marrakesh,node,4467079290,Marjane Marrakech,"{""name"": ""Marjane Marrakech""}",0,0,non_multilingual,
+Krakow,way,172740097,"Ośrodek Kultury im. Cypriana Kamila Norwida ""Sala Tańca""","{""name"": ""Ośrodek Kultury im. Cypriana Kamila Norwida \""Sala Tańca\""""}",0,0,non_multilingual,
+Mexico City,node,3443969982,Entrance to Sam's Club,"{""name"": ""Entrance to Sam's Club""}",0,0,non_multilingual,
+Istanbul,node,5720466422,Kara,"{""name"": ""Kara""}",0,0,non_multilingual,
+Lima,node,4337401073,MN Electronics,"{""name"": ""MN Electronics""}",0,0,non_multilingual,
+Naples,node,4459022856,Portici-Ercolano,"{""name"": ""Portici-Ercolano""}",0,0,non_multilingual,
+Kyoto,node,12768099213,京都 雅茶屋,"{""name"": ""京都 雅茶屋""}",0,0,non_multilingual,
+Santiago de Compostela,node,4982620321,San Marcos,"{""name"": ""San Marcos""}",0,0,non_multilingual,
+Vienna,node,8596201145,Linda Felix,"{""name"": ""Linda Felix""}",0,0,non_multilingual,
+Naples,node,13935777094,Deutsche Bank,"{""name"": ""Deutsche Bank""}",0,0,non_multilingual,
+Istanbul,node,4938123522,Elmadağ Eczanesi,"{""name"": ""Elmadağ Eczanesi"", ""name:tr"": ""Elmadağ Eczanesi""}",0,0,non_multilingual,
+Budapest,node,4818907725,Ifjúság útja,"{""name"": ""Ifjúság útja""}",0,0,non_multilingual,
+Rome,node,4471160639,Adelaide,"{""name"": ""Adelaide""}",0,0,non_multilingual,
+Seoul,node,5565878631,박내과 의원,"{""name"": ""박내과 의원""}",0,0,non_multilingual,
+Seoul,node,13890054570,시석빌딩 앞,"{""name"": ""시석빌딩 앞""}",0,0,non_multilingual,
+Potosi,node,4430843591,Alojamiento San Lorenzo,"{""name"": ""Alojamiento San Lorenzo""}",0,0,non_multilingual,
+Vilnius,node,907897498,Eurovaistinė,"{""name"": ""Eurovaistinė""}",0,0,non_multilingual,
+Lima,node,9799687071,Novafarma,"{""name"": ""Novafarma""}",0,0,non_multilingual,
+Riga,node,1634518186,Central Hostel,"{""name"": ""Central Hostel""}",0,0,non_multilingual,
+Rome,node,5016355048,McDonald's,"{""name"": ""McDonald's""}",0,0,non_multilingual,
+Rome,way,1322163109,"Istituto d'istruzione superiore Tommaso Salvini, Sede Valadier - Genovesi","{""name"": ""Istituto d'istruzione superiore Tommaso Salvini, Sede Valadier - Genovesi""}",0,0,non_multilingual,
+Warsaw,node,11210511489,Helper,"{""name"": ""Helper""}",0,0,non_multilingual,
+Samarkand,node,12014285557,Baby Zone,"{""name"": ""Baby Zone""}",0,0,non_multilingual,
+Tunis,way,623889733,maison des associations,"{""name"": ""maison des associations""}",0,0,non_multilingual,
+Budapest,way,1318611278,Terézvárosi Önkormányzat Mesevilág Óvodája,"{""name"": ""Terézvárosi Önkormányzat Mesevilág Óvodája""}",0,0,non_multilingual,
+Rome,node,7090368589,Alimentari Maritato,"{""name"": ""Alimentari Maritato""}",0,0,non_multilingual,
+Budapest,node,3781949656,Ergoline Szoli,"{""name"": ""Ergoline Szoli""}",0,0,non_multilingual,
+Mexico City,way,1493192470,"Secundaria Diurna No. 247 ""Jusús","{""name"": ""Secundaria Diurna No. 247 \""Jusús""}",0,0,non_multilingual,
+Cusco,node,1011871978,Petrogas,"{""name"": ""Petrogas""}",0,0,non_multilingual,
+Istanbul,node,3090816360,Med Cezir,"{""name"": ""Med Cezir""}",0,0,non_multilingual,
+Tunis,way,1223437762,Le Bardo,"{""name"": ""Le Bardo""}",0,0,non_multilingual,
+Arequipa,way,410691962,Institución Educativa Nuestra Sra. De Fatima,"{""name"": ""Institución Educativa Nuestra Sra. De Fatima""}",0,0,non_multilingual,
+Valletta,node,14020202716,Sunlab,"{""name"": ""Sunlab""}",0,0,non_multilingual,
+Seoul,node,13682541642,청운공원,"{""name"": ""청운공원""}",0,0,non_multilingual,
+Warsaw,node,12776443264,Putka,"{""name"": ""Putka""}",0,0,non_multilingual,
+Algiers,node,2754400941,Acer store,"{""name"": ""Acer store""}",0,0,non_multilingual,
+Lima,node,4334291026,Zapatería Vilma,"{""name"": ""Zapatería Vilma""}",0,0,non_multilingual,
+Budapest,node,3812473387,Versics Fodrász Szalon,"{""name"": ""Versics Fodrász Szalon""}",0,0,non_multilingual,
+Macao,way,194688372,吉大公园,"{""name"": ""吉大公园""}",0,0,non_multilingual,
+Rome,node,8445942595,Mostò,"{""name"": ""Mostò""}",0,0,non_multilingual,
+Valletta,node,5997458285,Mediterraneo Marine Park,"{""name"": ""Mediterraneo Marine Park""}",0,0,non_multilingual,
+Krakow,node,3129649168,Sukhoj Su-20,"{""name"": ""Sukhoj Su-20""}",0,0,non_multilingual,
+Riga,node,4363114802,Master Clean,"{""name"": ""Master Clean""}",0,0,non_multilingual,
+Arequipa,node,4328445663,Electrónica Merino,"{""name"": ""Electrónica Merino""}",0,0,non_multilingual,
+Bukhara,node,11964302582,Salom Inn,"{""name"": ""Salom Inn""}",0,0,non_multilingual,
+Istanbul,node,11543281755,Hasköy Parkı,"{""name"": ""Hasköy Parkı""}",0,0,non_multilingual,
+Oaxaca,node,12319489074,Tlapaleria Nuevo México,"{""name"": ""Tlapaleria Nuevo México""}",0,0,non_multilingual,
+Istanbul,node,11543281753,Güner Akın Anadolu İmam Hatip Lisesi,"{""name"": ""Güner Akın Anadolu İmam Hatip Lisesi""}",0,0,non_multilingual,
+Arequipa,way,557386288,Institución Educativa 40003 Alto Selva Alegre,"{""name"": ""Institución Educativa 40003 Alto Selva Alegre""}",0,0,non_multilingual,
+Porto,way,484603001,Piscinas Engenheiro Armando Pimentel,"{""name"": ""Piscinas Engenheiro Armando Pimentel""}",0,0,non_multilingual,
+Budapest,node,4008584964,Gelarto Rosa Grande,"{""name"": ""Gelarto Rosa Grande""}",0,0,non_multilingual,
+Porto,way,211657955,Eurostars Porto Douro,"{""name"": ""Eurostars Porto Douro""}",0,0,non_multilingual,
+Brasilia,way,141478757,ASSEJUS,"{""name"": ""ASSEJUS""}",0,0,non_multilingual,
+Riga,way,1304805071,Virši,"{""name"": ""Virši""}",0,0,non_multilingual,
+Seoul,node,13930571186,인왕산 옛날통닭,"{""name"": ""인왕산 옛날통닭""}",0,0,non_multilingual,
+Arequipa,node,5468272219,Institución Educativa Kenneth E. Hagin,"{""name"": ""Institución Educativa Kenneth E. Hagin""}",0,0,non_multilingual,
+Vienna,node,13725714998,Cult. büro,"{""name"": ""Cult. büro""}",0,0,non_multilingual,
+Lima,node,5319575581,Pileta,"{""name"": ""Pileta""}",0,0,non_multilingual,
+Vienna,relation,19426079,"St. Marx, Leberstraße","{""name"": ""St. Marx, Leberstraße""}",0,0,non_multilingual,
+Vienna,node,3582819269,Flurschützstraße,"{""name"": ""Flurschützstraße""}",0,0,non_multilingual,
+Budapest,relation,555605,Zsil utca,"{""name"": ""Zsil utca""}",0,0,non_multilingual,
+Arequipa,node,4020687798,Falabella,"{""name"": ""Falabella""}",0,0,non_multilingual,
+Prague,node,10967207207,Oxalis,"{""name"": ""Oxalis""}",0,0,non_multilingual,
+Isfahan,way,846826811,حاج عباس,"{""name"": ""حاج عباس""}",0,0,non_multilingual,
+Rome,node,9903736747,Croce Rossa Italiana - Comitato Area Metropolitana di Roma Capitale,"{""name"": ""Croce Rossa Italiana - Comitato Area Metropolitana di Roma Capitale""}",0,0,non_multilingual,
+Cordoba,node,13566309404,Pink Zapo,"{""name"": ""Pink Zapo""}",0,0,non_multilingual,
+Porto,node,3397147914,Francos,"{""name"": ""Francos""}",0,0,non_multilingual,
+Valparaiso,way,631712637,Misòo,"{""name"": ""Misòo""}",0,0,non_multilingual,
+Quito,node,4230429685,Multclub,"{""name"": ""Multclub""}",0,0,non_multilingual,
+Isfahan,way,495473845,پایانه صمدیه,"{""name"": ""پایانه صمدیه""}",0,0,non_multilingual,
+Rome,node,1799231337,Beltramelli,"{""name"": ""Beltramelli""}",0,0,non_multilingual,
+Mexico City,node,5796735366,Misionero Armando,"{""name"": ""Misionero Armando""}",0,0,non_multilingual,
+Warsaw,node,3037182127,Budexpo 01,"{""name"": ""Budexpo 01""}",0,0,non_multilingual,
+Lima,node,4332539170,Ibero Librerías,"{""name"": ""Ibero Librerías""}",0,0,non_multilingual,

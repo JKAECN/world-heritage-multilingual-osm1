@@ -1,0 +1,86 @@
+{
+  "analysis_sample_sha256": "e0206f38060905c9a525d62eb021e4be919bcc9d5b232146f235e2ecb38291e6",
+  "grid_v7_metrics_sha256": "9bf9e9850bbd2084e5579271ff99b604d29590fdf0ad3823ff33da53b6aafa6e",
+  "eligible_grids": 15020,
+  "all_grids": 50506,
+  "unique_cities": 59,
+  "named_features": 552553,
+  "multilingual_primary": 62187,
+  "cities_all_eight_bands": 44,
+  "cities_both_endpoint_bands": 49,
+  "cities_with_lower_outer_end_share": 43,
+  "bands": [
+    {
+      "band": "0-1",
+      "cities": 57,
+      "grids": 600,
+      "named": 60971,
+      "multilingual": 7719,
+      "pooled_share": 0.12660117104853127,
+      "common44_city_equal": 0.16428681428193467
+    },
+    {
+      "band": "1-2",
+      "cities": 59,
+      "grids": 1450,
+      "named": 87858,
+      "multilingual": 11056,
+      "pooled_share": 0.12583942270481915,
+      "common44_city_equal": 0.14138674230618536
+    },
+    {
+      "band": "2-3",
+      "cities": 57,
+      "grids": 1639,
+      "named": 74611,
+      "multilingual": 9189,
+      "pooled_share": 0.1231587835573843,
+      "common44_city_equal": 0.1269346165050191
+    },
+    {
+      "band": "3-4",
+      "cities": 56,
+      "grids": 2193,
+      "named": 80180,
+      "multilingual": 9219,
+      "pooled_share": 0.11497879770516338,
+      "common44_city_equal": 0.11933541288970105
+    },
+    {
+      "band": "4-5",
+      "cities": 54,
+      "grids": 2082,
+      "named": 64360,
+      "multilingual": 7604,
+      "pooled_share": 0.11814791796146674,
+      "common44_city_equal": 0.11096958368361069
+    },
+    {
+      "band": "5-6",
+      "cities": 50,
+      "grids": 2193,
+      "named": 61867,
+      "multilingual": 5898,
+      "pooled_share": 0.09533353807360952,
+      "common44_city_equal": 0.0945752103027592
+    },
+    {
+      "band": "6-7",
+      "cities": 49,
+      "grids": 2420,
+      "named": 63517,
+      "multilingual": 6542,
+      "pooled_share": 0.10299604830202938,
+      "common44_city_equal": 0.09649613697847524
+    },
+    {
+      "band": "7-8",
+      "cities": 49,
+      "grids": 2443,
+      "named": 59189,
+      "multilingual": 4960,
+      "pooled_share": 0.08379935460980925,
+      "common44_city_equal": 0.0825134078394414
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+﻿city,country,unesco_iso,unesco_match,local_language,macro_region,unesco_official_name,unesco_category,unesco_date_inscribed,unesco_states,longitude,latitude,match_score
+Vienna,Austria,AT,Historic Centre of Vienna,de,Europe,Historic Centre of Vienna,Cultural,2001,Austria,16.3699,48.2094,1.0
+Prague,Czechia,CZ,Historic Centre of Prague,cs,Europe,Historic Centre of Prague,Cultural,1992,Czechia,14.41944,50.08972,1.0
+Krakow,Poland,PL,Historic Centre of Krakow,pl,Europe,Historic Centre of Kraków,Cultural,1978,Poland,19.9372222222,50.0613888889,1.0
+Warsaw,Poland,PL,Historic Centre of Warsaw,pl,Europe,Historic Centre of Warsaw,Cultural,1980,Poland,21.013,52.25,1.0
+Budapest,Hungary,HU,"Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrassy Avenue",hu,Europe,"Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue",Cultural,1987,Hungary,19.07067,47.48242,1.0
+Florence,Italy,IT,Historic Centre of Florence,it,Europe,Historic Centre of Florence,Cultural,1982,Italy,11.25611,43.77306,1.0
+Rome,Italy,IT,Historic Centre of Rome,it,Europe,"Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura",Cultural,1980,"Holy See,Italy",12.49230556,41.89022222,1.0
+Venice,Italy,IT,Venice and its Lagoon,it,Europe,Venice and its Lagoon,Cultural,1987,Italy,12.33894444,45.43430556,1.0
+Naples,Italy,IT,Historic Centre of Naples,it,Europe,Historic Centre of Naples,Cultural,1995,Italy,14.26277778,40.85138889,1.0
+Porto,Portugal,PT,Historic Centre of Porto,pt,Europe,"Historic Centre of Oporto, Luiz I Bridge and Monastery of Serra do Pilar",Cultural,1996,Portugal,-8.616666667,41.14166667,1.0
+Toledo,Spain,ES,Historic City of Toledo,es,Europe,Historic City of Toledo,Cultural,1986,Spain,-4.0244444444,39.8569444444,1.0
+Cordoba,Spain,ES,Historic Centre of Cordoba,es,Europe,Historic Centre of Cordoba,Cultural,1984,Spain,-4.779722222,37.87919444,1.0
+Santiago de Compostela,Spain,ES,Santiago de Compostela (Old Town),es,Europe,Santiago de Compostela (Old Town),Cultural,1985,Spain,-8.54468,42.88076,1.0
+Dubrovnik,Croatia,HR,Old City of Dubrovnik,hr,Europe,Old City of Dubrovnik,Cultural,1979,Croatia,18.1088611111,42.6414211111,1.0
+Riga,Latvia,LV,Historic Centre of Riga,lv,Europe,Historic Centre of Riga,Cultural,1997,Latvia,24.11667,56.95417,1.0
+Vilnius,Lithuania,LT,Vilnius Historic Centre,lt,Europe,Vilnius Historic Centre,Cultural,1994,Lithuania,25.29306,54.68667,1.0
+Tallinn,Estonia,EE,Historic Centre (Old Town) of Tallinn,et,Europe,Historic Centre (Old Town) of Tallinn,Cultural,1997,Estonia,24.74,59.437,1.0
+Valletta,Malta,MT,City of Valletta,mt,Europe,City of Valletta,Cultural,1980,Malta,14.51444,35.90056,1.0
+Istanbul,Türkiye,TR,Historic Areas of Istanbul,tr,Europe,Historic Areas of Istanbul,Cultural,1985,Türkiye,28.97993,41.00847,1.0
+Sighisoara,Romania,RO,Historic Centre of Sighisoara,ro,Europe,Historic Centre of Sighişoara,Cultural,1999,Romania,24.79222222,46.21777778,1.0
+Kyoto,Japan,JP,Historic Monuments of Ancient Kyoto,ja,Asia-MENA,"Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)",Cultural,1994,Japan,135.7694444,34.98055556,1.0
+Nara,Japan,JP,Historic Monuments of Ancient Nara,ja,Asia-MENA,Historic Monuments of Ancient Nara,Cultural,1998,Japan,135.8394444,34.67555556,1.0
+Seoul,Republic of Korea,KR,Changdeokgung Palace Complex,ko,Asia-MENA,Changdeokgung Palace Complex,Cultural,1997,Republic of Korea,126.9911111111,37.5788888889,1.0
+Macao,China,CN,Historic Centre of Macao,zh,Asia-MENA,Historic Centre of Macao,Cultural,2005,China,113.5364611111,22.1912919444,1.0
+Lijiang,China,CN,Old Town of Lijiang,zh,Asia-MENA,Old Town of Lijiang,Cultural,1997,China,100.23333,26.86667,1.0
+Pingyao,China,CN,Ancient City of Ping Yao,zh,Asia-MENA,Ancient City of Ping Yao,Cultural,1997,China,112.15444,37.20139,1.0
+Quanzhou,China,CN,Quanzhou: Emporium of the World in Song-Yuan China,zh,Asia-MENA,Quanzhou: Emporium of the World in Song-Yuan China,Cultural,2021,China,118.4441666667,24.7102777778,1.0
+Hue,Viet Nam,VN,Complex of Hue Monuments,vi,Asia-MENA,Complex of Hué Monuments,Cultural,1993,Viet Nam,107.57778,16.46944,1.0
+Hoi An,Viet Nam,VN,Hoi An Ancient Town,vi,Asia-MENA,Hoi An Ancient Town,Cultural,1999,Viet Nam,108.3333333,15.88333333,1.0
+Luang Prabang,Lao People's Democratic Republic,LA,Town of Luang Prabang,lo,Asia-MENA,Town of Luang Prabang,Cultural,1995,Lao People's Democratic Republic,102.13333,19.88889,1.0
+Ayutthaya,Thailand,TH,Historic City of Ayutthaya,th,Asia-MENA,Historic City of Ayutthaya,Cultural,1991,Thailand,100.56056,14.34778,1.0
+Vigan,Philippines,PH,Historic City of Vigan,fil,Asia-MENA,Historic City of Vigan,Cultural,1999,Philippines,120.3875,17.575,1.0
+Bukhara,Uzbekistan,UZ,Historic Centre of Bukhara,uz,Asia-MENA,Historic Centre of Bukhara,Cultural,1993,Uzbekistan,64.42861,39.77472,1.0
+Samarkand,Uzbekistan,UZ,Samarkand – Crossroad of Cultures,uz,Asia-MENA,Samarkand – Crossroad of Cultures,Cultural,2001,Uzbekistan,67,39.66861,1.0
+Yazd,Iran,IR,Historic City of Yazd,fa,Asia-MENA,Historic City of Yazd,Cultural,2017,Iran (Islamic Republic of),54.3691666667,31.9013888889,1.0
+Isfahan,Iran,IR,"Meidan Emam, Esfahan",fa,Asia-MENA,"Meidan Emam, Esfahan",Cultural,1979,Iran (Islamic Republic of),51.6777777777,32.65745,1.0
+Marrakesh,Morocco,MA,Medina of Marrakesh,ar,Asia-MENA,Medina of Marrakesh,Cultural,1985,Morocco,-7.98667,31.63139,1.0
+Fez,Morocco,MA,Medina of Fez,ar,Asia-MENA,Medina of Fez,Cultural,1981,Morocco,-4.97778,34.06111,1.0
+Tunis,Tunisia,TN,Medina of Tunis,ar,Asia-MENA,Medina of Tunis,Cultural,1979,Tunisia,10.16667,36.81667,1.0
+Algiers,Algeria,DZ,Kasbah of Algiers,ar,Asia-MENA,Kasbah of Algiers,Cultural,1992,Algeria,3.06028,36.78333,1.0
+Mexico City,Mexico,MX,Historic Centre of Mexico City and Xochimilco,es,Latin America,Historic Centre of Mexico City and Xochimilco,Cultural,1987,Mexico,-99.13278,19.41833,1.0
+Puebla,Mexico,MX,Historic Centre of Puebla,es,Latin America,Historic Centre of Puebla,Cultural,1987,Mexico,-98.197769,19.045967,1.0
+Guanajuato,Mexico,MX,Historic Town of Guanajuato and Adjacent Mines,es,Latin America,Historic Town of Guanajuato and Adjacent Mines,Cultural,1988,Mexico,-101.25556,21.01694,1.0
+Morelia,Mexico,MX,Historic Centre of Morelia,es,Latin America,Historic Centre of Morelia,Cultural,1991,Mexico,-101.190376,19.700927,1.0
+Oaxaca,Mexico,MX,Historic Centre of Oaxaca and Archaeological Site of Monte Alban,es,Latin America,Historic Centre of Oaxaca and Archaeological Site of Monte Albán,Cultural,1987,Mexico,-96.725885,17.061579,1.0
+Zacatecas,Mexico,MX,Historic Centre of Zacatecas,es,Latin America,Historic Centre of Zacatecas,Cultural,1993,Mexico,-102.573531,22.775484,1.0
+Quito,Ecuador,EC,City of Quito,es,Latin America,City of Quito,Cultural,1978,Ecuador,-78.5120833333,-0.22,1.0
+Lima,Peru,PE,Historic Centre of Lima,es,Latin America,Historic Centre of Lima,Cultural,1988,Peru,-77.0304,-12.046542,1.0
+Arequipa,Peru,PE,Historical Centre of the City of Arequipa,es,Latin America,Historical Centre of the City of Arequipa,Cultural,2000,Peru,-71.536777,-16.398353,1.0
+Cusco,Peru,PE,City of Cuzco,es,Latin America,City of Cuzco,Cultural,1983,Peru,-71.980004,-13.517276,1.0
+Cartagena,Colombia,CO,"Port, Fortresses and Group of Monuments, Cartagena",es,Latin America,"Port, Fortresses and Group of Monuments, Cartagena",Cultural,1984,Colombia,-75.53333333,10.41666667,1.0
+Havana,Cuba,CU,Old Havana and its Fortification System,es,Latin America,Old Havana and its Fortification System,Cultural,1982,Cuba,-82.35,23.13333333,1.0
+Santo Domingo,Dominican Republic,DO,Colonial City of Santo Domingo,es,Latin America,Colonial City of Santo Domingo,Cultural,1990,Dominican Republic,-69.885841,18.472394,1.0
+Antigua Guatemala,Guatemala,GT,Antigua Guatemala,es,Latin America,Antigua Guatemala,Cultural,1979,Guatemala,-90.73381,14.556504,1.0
+Sucre,Bolivia,BO,Historic City of Sucre,es,Latin America,Historic City of Sucre,Cultural,1991,Bolivia (Plurinational State of),-65.259592,-19.04799,1.0
+Potosi,Bolivia,BO,City of Potosi,es,Latin America,City of Potosí,Cultural,1987,Bolivia (Plurinational State of),-65.749813,-19.599112,1.0
+Salvador de Bahia,Brazil,BR,Historic Centre of Salvador de Bahia,pt,Latin America,Historic Centre of Salvador de Bahia,Cultural,1985,Brazil,-38.512981,-12.972917,1.0
+Ouro Preto,Brazil,BR,Historic Town of Ouro Preto,pt,Latin America,Historic Town of Ouro Preto,Cultural,1980,Brazil,-43.50555556,-20.38888889,1.0
+Valparaiso,Chile,CL,Historic Quarter of the Seaport City of Valparaiso,es,Latin America,Historic Quarter of the Seaport City of Valparaíso,Cultural,2003,Chile,-71.628,-33.04063889,1.0
+Brasilia,Brazil,BR,Brasilia,pt,Latin America,Brasilia,Cultural,1987,Brazil,-47.9,-15.78333,1.0

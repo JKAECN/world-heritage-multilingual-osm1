@@ -1,0 +1,28 @@
+{
+ "n": 360,
+ "agree3": "345/360",
+ "kappa3": 0.9168,
+ "binary_n": 339,
+ "binary_agree": "333/339",
+ "kappa_bin": 0.9608,
+ "ci3": [
+  0.874,
+  0.955
+ ],
+ "cib": [
+  0.927,
+  0.987
+ ],
+ "uncertain_records": 21,
+ "pos": {
+  "n": 240,
+  "definite": 213,
+  "strict_met": 114,
+  "not_met": 99,
+  "unresolved": 27
+ },
+ "neg": {
+  "n": 120,
+  "definite_nonML": 120
+ }
+}
