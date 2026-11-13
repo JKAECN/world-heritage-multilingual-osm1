@@ -1,0 +1,570 @@
+{
+ "pool": {
+  "all_grids": 50506,
+  "all_named_features": 568661,
+  "eligible_grids": 15020,
+  "eligible_named_features": 552553,
+  "eligible_multilingual_primary": 62187,
+  "eligible_multilingual_strict": 32895,
+  "cities": 59,
+  "morocco_cities": [
+   "Marrakesh",
+   "Fez"
+  ]
+ },
+ "common_support_cities": 44,
+ "endpoint_comparison": {
+  "cities": 49,
+  "lower_outer_primary": 43,
+  "lower_outer_corrected": 44,
+  "lower_outer_notranslit": 44,
+  "lower_outer_auxiliary": 43
+ },
+ "band_table": [
+  {
+   "band": "0-1",
+   "cities": 57,
+   "grids": 600,
+   "named": 60971,
+   "ml_primary": 7719,
+   "pooled_primary": 0.126601,
+   "ml_corrected": 7354,
+   "pooled_corrected": 0.120615,
+   "ml_notranslit": 7092,
+   "pooled_notranslit": 0.116318,
+   "ml_auxiliary": 4345,
+   "pooled_auxiliary": 0.071263,
+   "equal44_primary": 0.164287,
+   "equal44_corrected": 0.155035,
+   "equal44_notranslit": 0.148997,
+   "equal44_auxiliary": 0.102238
+  },
+  {
+   "band": "1-2",
+   "cities": 59,
+   "grids": 1450,
+   "named": 87858,
+   "ml_primary": 11056,
+   "pooled_primary": 0.125839,
+   "ml_corrected": 10571,
+   "pooled_corrected": 0.120319,
+   "ml_notranslit": 10039,
+   "pooled_notranslit": 0.114264,
+   "ml_auxiliary": 6043,
+   "pooled_auxiliary": 0.068781,
+   "equal44_primary": 0.141387,
+   "equal44_corrected": 0.133344,
+   "equal44_notranslit": 0.128852,
+   "equal44_auxiliary": 0.085182
+  },
+  {
+   "band": "2-3",
+   "cities": 57,
+   "grids": 1639,
+   "named": 74611,
+   "ml_primary": 9189,
+   "pooled_primary": 0.123159,
+   "ml_corrected": 8770,
+   "pooled_corrected": 0.117543,
+   "ml_notranslit": 8279,
+   "pooled_notranslit": 0.110962,
+   "ml_auxiliary": 4686,
+   "pooled_auxiliary": 0.062806,
+   "equal44_primary": 0.126935,
+   "equal44_corrected": 0.118538,
+   "equal44_notranslit": 0.115091,
+   "equal44_auxiliary": 0.078854
+  },
+  {
+   "band": "3-4",
+   "cities": 56,
+   "grids": 2193,
+   "named": 80180,
+   "ml_primary": 9219,
+   "pooled_primary": 0.114979,
+   "ml_corrected": 8736,
+   "pooled_corrected": 0.108955,
+   "ml_notranslit": 8232,
+   "pooled_notranslit": 0.102669,
+   "ml_auxiliary": 4150,
+   "pooled_auxiliary": 0.051759,
+   "equal44_primary": 0.119335,
+   "equal44_corrected": 0.111049,
+   "equal44_notranslit": 0.108266,
+   "equal44_auxiliary": 0.073902
+  },
+  {
+   "band": "4-5",
+   "cities": 54,
+   "grids": 2082,
+   "named": 64360,
+   "ml_primary": 7604,
+   "pooled_primary": 0.118148,
+   "ml_corrected": 7173,
+   "pooled_corrected": 0.111451,
+   "ml_notranslit": 6760,
+   "pooled_notranslit": 0.105034,
+   "ml_auxiliary": 3525,
+   "pooled_auxiliary": 0.05477,
+   "equal44_primary": 0.11097,
+   "equal44_corrected": 0.102941,
+   "equal44_notranslit": 0.09915,
+   "equal44_auxiliary": 0.070127
+  },
+  {
+   "band": "5-6",
+   "cities": 50,
+   "grids": 2193,
+   "named": 61867,
+   "ml_primary": 5898,
+   "pooled_primary": 0.095334,
+   "ml_corrected": 5468,
+   "pooled_corrected": 0.088383,
+   "ml_notranslit": 4976,
+   "pooled_notranslit": 0.080431,
+   "ml_auxiliary": 3509,
+   "pooled_auxiliary": 0.056718,
+   "equal44_primary": 0.094575,
+   "equal44_corrected": 0.084564,
+   "equal44_notranslit": 0.08153,
+   "equal44_auxiliary": 0.060821
+  },
+  {
+   "band": "6-7",
+   "cities": 49,
+   "grids": 2420,
+   "named": 63517,
+   "ml_primary": 6542,
+   "pooled_primary": 0.102996,
+   "ml_corrected": 6195,
+   "pooled_corrected": 0.097533,
+   "ml_notranslit": 5744,
+   "pooled_notranslit": 0.090432,
+   "ml_auxiliary": 3488,
+   "pooled_auxiliary": 0.054914,
+   "equal44_primary": 0.096496,
+   "equal44_corrected": 0.089484,
+   "equal44_notranslit": 0.086785,
+   "equal44_auxiliary": 0.060976
+  },
+  {
+   "band": "7-8",
+   "cities": 49,
+   "grids": 2443,
+   "named": 59189,
+   "ml_primary": 4960,
+   "pooled_primary": 0.083799,
+   "ml_corrected": 4671,
+   "pooled_corrected": 0.078917,
+   "ml_notranslit": 4213,
+   "pooled_notranslit": 0.071179,
+   "ml_auxiliary": 3149,
+   "pooled_auxiliary": 0.053202,
+   "equal44_primary": 0.082513,
+   "equal44_corrected": 0.076957,
+   "equal44_notranslit": 0.073239,
+   "equal44_auxiliary": 0.05437
+  }
+ ],
+ "excluded_below_10": [
+  "Pingyao",
+  "Quanzhou"
+ ],
+ "n_excluded_below_10": 2,
+ "excluded_below_30": [
+  "Luang Prabang",
+  "Ouro Preto",
+  "Pingyao",
+  "Potosi",
+  "Quanzhou",
+  "Sighisoara"
+ ],
+ "n_excluded_below_30": 6,
+ "support_table": [
+  {
+   "tag": "all 59",
+   "cities": 59,
+   "grids": 15020,
+   "named": 552553,
+   "city_equal_primary": 0.13573033126692213,
+   "pooled_primary": 0.11254485995008624,
+   "band0_pooled_primary": 0.12660117104853127,
+   "band7_pooled_primary": 0.08379935460980925,
+   "city_equal_corrected": 0.12815035357175195,
+   "pooled_corrected": 0.10666488101593874,
+   "band0_pooled_corrected": 0.12061471847271654,
+   "band7_pooled_corrected": 0.07891669060129416,
+   "city_equal_notranslit": 0.1241691727863454,
+   "pooled_notranslit": 0.10014423955711035,
+   "band0_pooled_notranslit": 0.11631759361007692,
+   "band7_pooled_notranslit": 0.07117876632482387,
+   "city_equal_auxiliary": 0.07420711259936973,
+   "pooled_auxiliary": 0.05953275070445731,
+   "band0_pooled_auxiliary": 0.07126338751209592,
+   "band7_pooled_auxiliary": 0.05320245315852608
+  },
+  {
+   "tag": "cities with >=10 eligible grids",
+   "cities": 57,
+   "grids": 15009,
+   "named": 552434,
+   "city_equal_primary": 0.1287486421588463,
+   "pooled_primary": 0.11245506250520425,
+   "band0_pooled_primary": 0.12660117104853127,
+   "band7_pooled_primary": 0.08379935460980925,
+   "city_equal_corrected": 0.12090270033402094,
+   "pooled_corrected": 0.1065738169627503,
+   "band0_pooled_corrected": 0.12061471847271654,
+   "band7_pooled_corrected": 0.07891669060129416,
+   "city_equal_notranslit": 0.11782403847884682,
+   "pooled_notranslit": 0.1000626319162108,
+   "band0_pooled_notranslit": 0.11631759361007692,
+   "band7_pooled_notranslit": 0.07117876632482387,
+   "city_equal_auxiliary": 0.07212092825771138,
+   "pooled_auxiliary": 0.059496700058287506,
+   "band0_pooled_auxiliary": 0.07126338751209592,
+   "band7_pooled_auxiliary": 0.05320245315852608
+  },
+  {
+   "tag": "cities with >=30 eligible grids",
+   "cities": 53,
+   "grids": 14913,
+   "named": 550202,
+   "city_equal_primary": 0.1324978648900926,
+   "pooled_primary": 0.1125495727023893,
+   "band0_pooled_primary": 0.1273393819679266,
+   "band7_pooled_primary": 0.08381918039712717,
+   "city_equal_corrected": 0.1246343918880858,
+   "pooled_corrected": 0.10668445407323128,
+   "band0_pooled_corrected": 0.12144698516856942,
+   "band7_pooled_corrected": 0.07893536121673003,
+   "city_equal_notranslit": 0.12132337819478531,
+   "pooled_notranslit": 0.1001468551550158,
+   "band0_pooled_notranslit": 0.1170611670963206,
+   "band7_pooled_notranslit": 0.07119560625264047,
+   "city_equal_auxiliary": 0.07447803111382328,
+   "pooled_auxiliary": 0.059561760953249894,
+   "band0_pooled_auxiliary": 0.0718135859921658,
+   "band7_pooled_auxiliary": 0.053215040135192224
+  }
+ ],
+ "sparse_cities": {
+  "Quanzhou": {
+   "grids": 3,
+   "named": 18,
+   "share_primary": 0.0556
+  },
+  "Pingyao": {
+   "grids": 8,
+   "named": 101,
+   "share_primary": 0.6139
+  },
+  "Sighisoara": {
+   "grids": 19,
+   "named": 419,
+   "share_primary": 0.0764
+  },
+  "Ouro Preto": {
+   "grids": 24,
+   "named": 533,
+   "share_primary": 0.0113
+  },
+  "Luang Prabang": {
+   "grids": 25,
+   "named": 749,
+   "share_primary": 0.1816
+  },
+  "Potosi": {
+   "grids": 28,
+   "named": 531,
+   "share_primary": 0.0471
+  },
+  "Antigua Guatemala": {
+   "grids": 30,
+   "named": 1414,
+   "share_primary": 0.0403
+  },
+  "Zacatecas": {
+   "grids": 30,
+   "named": 329,
+   "share_primary": 0.0122
+  },
+  "Vigan": {
+   "grids": 30,
+   "named": 590,
+   "share_primary": 0.0237
+  },
+  "Sucre": {
+   "grids": 41,
+   "named": 938,
+   "share_primary": 0.0448
+  },
+  "Guanajuato": {
+   "grids": 42,
+   "named": 815,
+   "share_primary": 0.0417
+  },
+  "Dubrovnik": {
+   "grids": 48,
+   "named": 1199,
+   "share_primary": 0.0734
+  }
+ },
+ "city_equal_means_by_region": {
+  "Asia-MENA": 0.3027337152796365,
+  "Europe": 0.06612157127741365,
+  "Latin America": 0.033209674400389654
+ },
+ "spline_knots": [
+  0.353553,
+  3.020761,
+  4.808846,
+  6.373774,
+  7.966881
+ ],
+ "model_primary": {
+  "beta": 0.05403642957582858,
+  "se": 0.12939276812479053,
+  "ci": [
+   -0.204971336701515,
+   0.31304419585317217
+  ],
+  "p": 0.6777702060530786,
+  "N": 15020,
+  "cities": 59,
+  "dispersion": 4.176396058045436
+ },
+ "table9": {
+  "Primary model (n_named_feat >= 5)": {
+   "beta": 0.05403642957582858,
+   "se": 0.12939276812479053,
+   "ci": [
+    -0.204971336701515,
+    0.31304419585317217
+   ],
+   "p": 0.6777702060530786,
+   "N": 15020,
+   "cities": 59,
+   "dispersion": 4.176396058045436
+  },
+  "R1 stricter multilingual definition": {
+   "beta": 0.10131681023260873,
+   "se": 0.10734271804876111,
+   "ci": [
+    -0.11355298528126874,
+    0.3161866057464862
+   ],
+   "p": 0.3491550140384811,
+   "N": 15020,
+   "cities": 59,
+   "dispersion": 2.5065264268218552
+  },
+  "R2 n_named_feat >= 10": {
+   "beta": 0.05780080927570448,
+   "se": 0.14643561155753038,
+   "ci": [
+    -0.23543144487840506,
+    0.351033063429814
+   ],
+   "p": 0.694523963496291,
+   "N": 11120,
+   "cities": 58,
+   "dispersion": 4.8793275549435995
+  },
+  "R2 n_named_feat >= 20": {
+   "beta": 0.02870184626418588,
+   "se": 0.19784811314943895,
+   "ci": [
+    -0.3674821665034645,
+    0.42488585903183623
+   ],
+   "p": 0.8851672870346673,
+   "N": 7044,
+   "cities": 58,
+   "dispersion": 6.4185562442185145
+  },
+  "R3 land-use coverage >= 0.25": {
+   "beta": -0.047077249000456074,
+   "se": 0.17700301193060428,
+   "ci": [
+    -0.4016568898585582,
+    0.30750239185764605
+   ],
+   "p": 0.7912401574334087,
+   "N": 7746,
+   "cities": 57,
+   "dispersion": 4.394426132363248
+  },
+  "R3 land-use coverage >= 0.50": {
+   "beta": -0.08876904765681529,
+   "se": 0.22085126671885813,
+   "ci": [
+    -0.5317405914390435,
+    0.3542024961254129
+   ],
+   "p": 0.6893442253036618,
+   "N": 5354,
+   "cities": 54,
+   "dispersion": 4.495154150501573
+  },
+  "R4 Europe": {
+   "beta": -0.01497528319807262,
+   "se": 0.32792442010022854,
+   "ci": [
+    -0.7013289824957465,
+    0.6713784160996012
+   ],
+   "p": 0.9640523331918335,
+   "N": 7296,
+   "cities": 20,
+   "dispersion": 5.602448766694636
+  },
+  "R4 Asia-MENA": {
+   "beta": 0.00017711541372189554,
+   "se": 0.07432601241681719,
+   "ci": [
+    -0.1553890164429271,
+    0.1557432472703709
+   ],
+   "p": 0.9981235224123124,
+   "N": 3728,
+   "cities": 20,
+   "dispersion": 3.8770844521001444
+  },
+  "R4 Latin America": {
+   "beta": 0.47685246889100796,
+   "se": 0.09607906600529116,
+   "ci": [
+    0.2749978415147183,
+    0.6787070962672976
+   ],
+   "p": 0.00010056098736839792,
+   "N": 3996,
+   "cities": 19,
+   "dispersion": 2.835490463001397
+  }
+ },
+ "model_excl_below_10": {
+  "beta": 0.05416822972497831,
+  "se": 0.12945196202666484,
+  "ci": [
+   -0.2051552117415852,
+   0.3134916711915418
+  ],
+  "p": 0.67722390450396,
+  "N": 15009,
+  "cities": 57,
+  "dispersion": 4.17824350247545
+ },
+ "model_excl_below_30": {
+  "beta": 0.05364306305191889,
+  "se": 0.1295322732927164,
+  "ci": [
+   -0.20628245930328787,
+   0.3135685854071257
+  ],
+  "p": 0.680482968318143,
+  "N": 14913,
+  "cities": 53,
+  "dispersion": 4.193785555287925
+ },
+ "vif_wide": {
+  "r_visitor_named_density": 0.7631645503414625,
+  "simple_VIF": 2.3947514571289443,
+  "full_model_R2": 0.607861354082095,
+  "full_model_VIF": 2.5501184604216536
+ },
+ "vif_narrowB": {
+  "r_visitor_named_density": 0.45117149230874587,
+  "simple_VIF": 1.255580609248468,
+  "full_model_R2": 0.2764809546294634,
+  "full_model_VIF": 1.3821336237083697
+ },
+ "figure3": {
+  "Vienna": {
+   "grids": 675,
+   "feature_weighted": 0.025073821403115773,
+   "grid_equal_mean": 0.016366493691202945,
+   "city_equal_share": 0.025073821403115773
+  },
+  "Istanbul": {
+   "grids": 488,
+   "feature_weighted": 0.42231662612628046,
+   "grid_equal_mean": 0.21144320487969537,
+   "city_equal_share": 0.42231662612628046
+  },
+  "Macao": {
+   "grids": 187,
+   "feature_weighted": 0.6602646180110969,
+   "grid_equal_mean": 0.6390011406188795,
+   "city_equal_share": 0.6602646180110969
+  },
+  "Cusco": {
+   "grids": 91,
+   "feature_weighted": 0.06499826207855405,
+   "grid_equal_mean": 0.0333166400932425,
+   "city_equal_share": 0.06499826207855405
+  }
+ },
+ "richness_outlier": {
+  "grid_id": "istanbul_0445",
+  "city": "Istanbul",
+  "value": 115,
+  "n_named": 35
+ },
+ "bootstrap_CI": {
+  "0-1": {
+   "observed": 0.12660117104853127,
+   "ci95": [
+    0.09244806663716805,
+    0.17178692081529523
+   ]
+  },
+  "7-8": {
+   "observed": 0.08379935460980925,
+   "ci95": [
+    0.0455426064019404,
+    0.11923242241998713
+   ]
+  },
+  "difference": {
+   "observed": 0.04280181643872202,
+   "ci95": [
+    0.01243123668800785,
+    0.07519488117316053
+   ]
+  }
+ },
+ "serial_cities_excluded": [
+  "Seoul",
+  "Isfahan",
+  "Hue",
+  "Kyoto",
+  "Quanzhou",
+  "Mexico City"
+ ],
+ "spatial_sensitivity": {
+  "exclude_serial_band0": 0.11506276150627615,
+  "exclude_serial_band7": 0.059378410685515304,
+  "reanchor_band0": {
+   "pooled": 0.13002432948237932,
+   "grids": 490,
+   "cities": 59
+  },
+  "reanchor_band7": {
+   "pooled": 0.07382943996735693,
+   "grids": 1578,
+   "cities": 47
+  }
+ },
+ "table3_scope_cities": {
+  "cosmetic_fp": 45,
+  "script_variant_fp": 54,
+  "transliteration": 9
+ },
+ "table3_scope_rows": {
+  "script_variant_fp": 54,
+  "cosmetic_fp": 45,
+  "transliteration": 9
+ }
+}
