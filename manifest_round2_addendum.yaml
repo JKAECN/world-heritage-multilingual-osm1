@@ -1,0 +1,45 @@
+# Round-2 repository increment. Additive only: no record in manifest.yaml is modified.
+# The frozen primary grid-level data are unchanged; verify against manifest.yaml.
+manifest_addendum_version: '2.0'
+created: '2026-11-12'
+applies_to: 'world-heritage-multilingual-osm1'
+note: 'README.md is replaced in place; revision_round2/ is a new directory. This addendum file is excluded from its own hash list. frozen_artefacts are NOT uploaded: they are pre-existing files whose unchanged checksums are registered here.'
+frozen_artefacts:
+- path: Coding_Manual.docx
+  sha256: c6c75da73721ac908ec828920fc4bc0c2e06daa28b120f6033caf8bb19aac5cd
+  bytes: 43277
+  note: 'Frozen first-round double-blind validation manual, retained unchanged. Scope clarified in revision_round2/CODING_MANUAL_SCOPE.md; not re-issued.'
+files:
+- path: README.md
+  sha256: adfb73691f16d8c03f6c777b078e950f110f1180ff887a72384f91f49411d9a0
+  bytes: 14545
+- path: revision_round2/round2_results.json
+  sha256: ccf56ba0c7a0dd0bf4874a73c911dfb2270229dd5bb652f2df6445dc675d0b31
+  bytes: 13918
+- path: revision_round2/round2_band_table.csv
+  sha256: c4a07bec3abd99b9ea81242672d7e84261dcbbe9a5e1a44ebf66aaac3c75916a
+  bytes: 1802
+- path: revision_round2/round2_support_table.csv
+  sha256: b7c44f9f9314578d6331ab35c93f4841d49e35edb33d97c695ecc861ae695537
+  bytes: 1430
+- path: revision_round2/round2_support_bands.json
+  sha256: 3b9b2b586a3675fc916ffb0101f20727ee79c11cabe51072007836bec8b9a295
+  bytes: 1088
+- path: revision_round2/round2_reanalysis.py
+  sha256: f4934913cdeba525a8058c0640075a231c2d16f8839961b9c2bd6f0e5edeaa26
+  bytes: 14805
+- path: revision_round2/round2_support_bands.py
+  sha256: 04a095fc318bd6b87fe81515e4b8c1286632e00df926c15dc1d03f5df2177854
+  bytes: 2374
+- path: revision_round2/CODING_MANUAL_SCOPE.md
+  sha256: cb34f9f0349e480db6eaa2875c6083305a728bca5ac269adc4ac2dbd5e20a333
+  bytes: 3160
+- path: revision_round2/figures/round2_fig1a_fixed.png
+  sha256: 4ead02ae5687c70d7309b880146913ca8b39f0f320f4cb74b087c42f8f265660
+  bytes: 508076
+- path: revision_round2/figures/round2_fig3_fixed.png
+  sha256: 22f85144fb086cb2c6e1b9d355dc44a26ee9d88cc3e5f267c66bf7c7fbc2aa76
+  bytes: 1316846
+- path: revision_round2/figures/round2_figure_B1.png
+  sha256: d04717772a2a42232a9c84617815c4aaab32fc38a1cb0d3bf6e9b35b621c45b0
+  bytes: 303678
